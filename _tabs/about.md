@@ -14,3 +14,8 @@ Prior to Tradervue, I was the the founder and CTO of NewsGator Technologies, Inc
 I love working with startups, and I'm always watching out for fun things to work on. Don't hesitate to get in touch!
 
 You can contact me via email at [gregr@rassoc.com](mailto:gregr@rassoc.com).
+
+<br/><br/><br/><br/><br/>
+<p style="font-size:8pt;color:#aaaaaa;">
+  Build commit: {{ site.commit_hash | slice: 0, 7 -}}
+</p>
