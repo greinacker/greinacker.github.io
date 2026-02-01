@@ -174,6 +174,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  unlisted:
+    output: true
 
 defaults:
   - scope:
@@ -186,6 +188,15 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       # permalink: /posts/:title/
+      permalink: /gregr/weblog/:year/:month/:day/:title/
+  - scope:
+      path: ""
+      type: unlisted
+    values:
+      layout: post
+      comments: true
+      toc: true
+      sitemap: false
       permalink: /gregr/weblog/:year/:month/:day/:title/
   - scope:
       path: _drafts
