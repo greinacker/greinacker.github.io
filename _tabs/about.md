@@ -8,9 +8,9 @@ redirect_from: /gregr/weblog/about/
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-I'm the founder of [Tradervue](http://www.tradervue.com), an automated trading journal and trading analysis tool for active stock, futures, forex, and options traders.
+I was the founder of [Tradervue](http://www.tradervue.com), an automated trading journal and trading analysis tool for active stock, futures, forex, and options traders.
 
-Prior to Tradervue, I was the the founder and CTO of NewsGator Technologies, Inc.
+Before that, I was the the founder and CTO of NewsGator Technologies, Inc.
 
 I love working with startups, and I'm always watching out for fun things to work on. Don't hesitate to get in touch!
 
