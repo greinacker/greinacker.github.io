@@ -8,7 +8,7 @@ categories:
 tags: []
 comments: []
 ---
-Regarding my [previous post](http://www.rassoc.com/gregr/weblog/2002/07/23.html#a47) about adding methods to web services without changing the version/namespace, [Brad](http://www.quality.nu/dotnetguy/) had a good comment:
+Regarding my [previous post](/gregr/weblog/2002/07/23/clemens-and-gordon-on-xml-web-services/) about adding methods to web services without changing the version/namespace, [Brad](http://www.quality.nu/dotnetguy/) had a good comment:
 
 > *The thing you have to be careful with is new clients against old servers. While the consequences aren't necessarily as severe (crashing w/ an access violation is bad :), they still need to be planned for. \[[The .NET Guy](http://www.quality.nu/dotnetguy/view.aspx?post=344)\]*
 

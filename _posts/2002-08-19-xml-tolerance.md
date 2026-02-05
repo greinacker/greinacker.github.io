@@ -18,6 +18,6 @@ comments: []
 >
 > *I did all this to answer a question. How tolerant should I be?* *\[*[*News from the Forest*](http://pinetree-tech.com/weblog/archives/2002/08/19.shtml#xml_tolerance)*\]*
 
-I'm still not convinced.  This related to the [loosely coupled](http://www.rassoc.com/gregr/weblog/2002/07/29.html#a50) [web services](http://radio.weblogs.com/0108971/2002/07/29.html#a47) [discussion](http://www.rassoc.com/gregr/weblog/2002/07/30.html#a51) we've been having, and I'm still not convinced that we shouldn't be doing a schema validation on the input to our web services.  If you want extensibility, use a xsd:any extensibility node; if you want parameters to be optional, mark them as such with minOccurs='0'. 
+I'm still not convinced.  This related to the [loosely coupled](/gregr/weblog/2002/07/29/sam-ruby-on-loosely-coupled-web-services/) [web services](http://radio.weblogs.com/0108971/2002/07/29.html#a47) [discussion](/gregr/weblog/2002/07/30/xml-schema-derivation/) we've been having, and I'm still not convinced that we shouldn't be doing a schema validation on the input to our web services.  If you want extensibility, use a xsd:any extensibility node; if you want parameters to be optional, mark them as such with minOccurs='0'. 
 
 Justin, what is your reasoning behind wanting to have your web service be tolerant of what might be described as malformed input?

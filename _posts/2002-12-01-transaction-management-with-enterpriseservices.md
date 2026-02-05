@@ -8,7 +8,7 @@ categories:
 tags: []
 comments: []
 ---
-Lots of comments on my [previous post](http://www.rassoc.com/gregr/weblog/2002/11/30.html#a98).  [Ingo says](http://www.dotnetremoting.cc/DotNetCentric/2002/12/01.asp#a356):
+Lots of comments on my [previous post](/gregr/weblog/2002/11/30/enterpriseservices-and-transactions/).  [Ingo says](http://www.dotnetremoting.cc/DotNetCentric/2002/12/01.asp#a356):
 
 > *But what happens, if you later decide that you need distributed TX, probably because another method wants to integrate the addition of a new customer with a post to a message queue? This wouldn't be possible using the code you've shown.*
 

@@ -8,7 +8,7 @@ categories:
 tags: []
 comments: []
 ---
-Last time, we looked at [how clippings work](http://www.rassoc.com/gregr/weblog/2008/07/09/nges-in-60-seconds-clippings/) in NewsGator Enterprise Server.  At the end of the video, I mentioned that there are other ways to share clippings with other folks...I was referring to a feature called group clippings.
+Last time, we looked at [how clippings work](/gregr/weblog/2008/07/09/nges-in-60-seconds-clippings/) in NewsGator Enterprise Server.  At the end of the video, I mentioned that there are other ways to share clippings with other folks...I was referring to a feature called group clippings.
 
 Group clippings are basically clippings that are shared among all the members of a group.  That group might be an Active Directory (or LDAP) group, or it might be an ad-hoc group defined in NGES.  The clippings for that group are, by default, private to that group - so you can have a confidential conversation among the members.
 
