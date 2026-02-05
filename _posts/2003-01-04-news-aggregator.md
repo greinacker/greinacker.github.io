@@ -9,6 +9,6 @@ tags: []
 ---
 Hmm...
 
-[<img src="/gregr/weblog/assets/postImages/smOutlookAggregator.gif" data-border="0" />](/gregr/weblog/assets/postImages/OutlookAggregator.gif)
+[![](/gregr/weblog/assets/postImages/smOutlookAggregator.gif)](/gregr/weblog/assets/postImages/OutlookAggregator.gif)
 
 ...possibly coming soon to a weblog near you.  Anyone interested in something like this?

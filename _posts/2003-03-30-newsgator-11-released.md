@@ -13,21 +13,21 @@ Change list (with a few pictures):
 
 - "From" column now shows author if present, otherwise feed name:  
     
-  <img src="/gregr/weblog/assets/postImages/ng11c.gif" data-hspace="0" data-align="baseline" data-border="0" />  
+  ![](/gregr/weblog/assets/postImages/ng11c.gif)  
    
 - "Received" column now shows publish date, if present, otherwise retrieve date
 - Feeds which require authentication are now supported:  
     
-  <img src="/gregr/weblog/assets/postImages/ng11a.gif" data-hspace="0" data-align="baseline" data-border="0" />  
+  ![](/gregr/weblog/assets/postImages/ng11a.gif)  
    
 - New message notification (task tray bubble) on Windows 2000 and later  
     
-  <img src="/gregr/weblog/assets/postImages/ng11d.gif" data-hspace="0" data-align="baseline" data-border="0" />  
+  ![](/gregr/weblog/assets/postImages/ng11d.gif)  
    
 - Optional per-feed update frequency
 - Option to determine modified-post behavior (RSS guid support), which can eliminate duplicate posts for some feeds:  
     
-  <img src="/gregr/weblog/assets/postImages/ng11b.gif" data-hspace="0" data-align="baseline" data-border="0" />  
+  ![](/gregr/weblog/assets/postImages/ng11b.gif)  
    
 - Initial view setup for OL2002 removed (no longer necessary)
 - Subscriptions moved to separate menu item

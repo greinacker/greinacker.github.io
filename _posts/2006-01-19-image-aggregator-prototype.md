@@ -18,7 +18,7 @@ If you're one of those types who is completely caught up with all of your unread
 
 Here's an example of what I see for my own account (click for larger version):
 
-[<img src="/gregr/weblog/assets/postImages/photoproto1_sm.jpg" data-hspace="0" data-align="baseline" data-border="0" />](/gregr/weblog/assets/postImages/photoproto1.jpg)
+[![](/gregr/weblog/assets/postImages/photoproto1_sm.jpg)](/gregr/weblog/assets/postImages/photoproto1.jpg)
 
 It lets me get an idea, at a glance, of what's available to read.
 

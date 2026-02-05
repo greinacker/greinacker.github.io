@@ -13,11 +13,11 @@ I had always thought ActiveSync could only sync up your Inbox and subfolders...b
 
 First, from ActiveSync, right-click on Inbox and click Settings... (this is the part I didn't know about!):
 
-<img src="/gregr/weblog/assets/postImages/activesync1.gif" data-hspace="0" data-align="baseline" data-border="0" />
+![](/gregr/weblog/assets/postImages/activesync1.gif)
 
 You'll then get a window where you can select the folders you want to sync. Select your NewsGator news folders:
 
-<img src="/gregr/weblog/assets/postImages/activesync2.gif" data-hspace="0" data-align="baseline" data-border="0" />
+![](/gregr/weblog/assets/postImages/activesync2.gif)
 
 And there you go! All of your RSS feeds, automatically synchronized with your Pocket PC. It doesn't get any cooler than that! :-)
 

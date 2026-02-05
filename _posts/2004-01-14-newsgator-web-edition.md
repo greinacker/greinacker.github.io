@@ -11,7 +11,7 @@ Uh oh, I'm letting down on the job...it's already Wednesday, and I have a lot mo
 
 NewsGator Web Edition, part of the NewsGator Online Services suite, is a web-based content aggregator which runs in a web browser.
 
-<img src="/gregr/weblog/assets/postImages/webed.gif" data-hspace="0" data-align="baseline" data-border="0" />
+![](/gregr/weblog/assets/postImages/webed.gif)
 
 Now there are plenty of other web-based aggregators out there...why do we need another one? A couple of reasons.
 

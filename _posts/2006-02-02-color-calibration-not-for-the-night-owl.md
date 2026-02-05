@@ -11,7 +11,7 @@ Colors.  Who knew they could be so tricky.
 
 One night, a week or so ago, I was making a print of this photo on my photo printer, a Canon iP6600D:
 
-<img src="http://gregr.smugmug.com/photos/54862752-S.jpg" data-hspace="0" data-align="baseline" data-border="0" />
+![](http://gregr.smugmug.com/photos/54862752-S.jpg)
 
 Simple enough, you'd think.  I even was using Canon's specific ICC profiles, based on [these instructions](http://www.steves-digicams.com/techcorner/June_2005.html) for Photoshop, for my specific printer and paper combination.
 

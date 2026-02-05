@@ -18,28 +18,28 @@ Over the last month or so, I've been doing development and other work with a new
 
 First, you need to clone your repository into Working Copy. Once you have it down, it will look something like this:
 
-<a href="/gregr/weblog/assets/uploads/2016/01/img_0021.png" rel="attachment wp-att-1085"><img src="/gregr/weblog/assets/uploads/2016/01/img_0021-1024x768.png" class="aligncenter size-large wp-image-1085" width="625" height="469" alt="img_0021" /></a>
+[![img_0021](/gregr/weblog/assets/uploads/2016/01/img_0021-1024x768.png)](/gregr/weblog/assets/uploads/2016/01/img_0021.png)
 
 Here, this repository is a set of API documentation that I want to edit. Now, we could edit this right here within Working Copy, but instead we will use 1Writer. Open 1Writer, and click the "+" button in the lower right corner:
 
-<img src="/gregr/weblog/assets/uploads/2016/01/img_0022.png" class="aligncenter" />
+![](/gregr/weblog/assets/uploads/2016/01/img_0022.png)
 
 The first time you do this, you'll notice Working Copy isn't in the list. Click "More", and you'll be able to enable it:
 
-<img src="/gregr/weblog/assets/uploads/2016/01/img_0023.png" class="aligncenter" />
+![](/gregr/weblog/assets/uploads/2016/01/img_0023.png)
 
 After you get it enabled, you'll see it in the list:
 
-<img src="/gregr/weblog/assets/uploads/2016/01/img_0024.png" class="aligncenter" />
+![](/gregr/weblog/assets/uploads/2016/01/img_0024.png)
 
 Now tap Working Copy, and you'll see a list of documents you can open from the repository:
 
-<a href="/gregr/weblog/assets/uploads/2016/01/img_0025.png" rel="attachment wp-att-1089"><img src="/gregr/weblog/assets/uploads/2016/01/img_0025-1024x768.png" class="aligncenter size-large wp-image-1089" width="625" height="469" alt="img_0025" /></a>
+[![img_0025](/gregr/weblog/assets/uploads/2016/01/img_0025-1024x768.png)](/gregr/weblog/assets/uploads/2016/01/img_0025.png)
 
 Pick the document you want (we'll edit the README.md as an example), and make your edits.
 
 When you're done editing, go back to Working Copy:
 
-<a href="/gregr/weblog/assets/uploads/2016/01/img_0026.png" rel="attachment wp-att-1090"><img src="/gregr/weblog/assets/uploads/2016/01/img_0026-1024x768.png" class="aligncenter size-large wp-image-1090" width="625" height="469" alt="img_0026" /></a>
+[![img_0026](/gregr/weblog/assets/uploads/2016/01/img_0026-1024x768.png)](/gregr/weblog/assets/uploads/2016/01/img_0026.png)
 
 You'll see on the left that README.md is modified, and if you tap on it, you can see the changes that were made. When you're ready, you can click "Commit" to commit the changes you've made, and then push to remote repository if you need to.

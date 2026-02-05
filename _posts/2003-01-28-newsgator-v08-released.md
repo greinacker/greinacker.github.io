@@ -11,15 +11,15 @@ Another huge release, this one pretty much feature complete for v1. You can rea
 
 - Added "NewsPage" HTML view of news:
 
-  [<img src="/gregr/weblog/assets/postImages/smss1.gif" data-border="none" />](/gregr/weblog/assets/postImages/ss1.gif)
+  [![](/gregr/weblog/assets/postImages/smss1.gif)](/gregr/weblog/assets/postImages/ss1.gif)
 
 - Added Internet Explorer context menu to right-click on RSS link and add to NewsGator:
 
-  [<img src="/gregr/weblog/assets/postImages/smss2.gif" data-border="none" />](/gregr/weblog/assets/postImages/ss2.gif)
+  [![](/gregr/weblog/assets/postImages/smss2.gif)](/gregr/weblog/assets/postImages/ss2.gif)
 
 - Can now adjust retrieval performance vs. resources used; average retrieval performance now drastically faster:
 
-  [<img src="/gregr/weblog/assets/postImages/smss3.gif" data-border="none" />](/gregr/weblog/assets/postImages/ss3.gif)
+  [![](/gregr/weblog/assets/postImages/smss3.gif)](/gregr/weblog/assets/postImages/ss3.gif)
 
 - Now supports using IE proxy settings, and proxy credentials
 

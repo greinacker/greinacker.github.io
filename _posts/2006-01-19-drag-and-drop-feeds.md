@@ -13,10 +13,10 @@ NewsGator Online provides a hierarchical folder stucture for you to organize you
 
 But now we've gone one better.  The way I figure it, if you just want to move a couple of feeds around, you don't want to have to go to a whole other page...you just want to drag them around.  So now you can!  Take a look:
 
-<img src="/gregr/weblog/assets/postImages/ngos_folder1.gif" data-hspace="0" data-align="baseline" data-border="0" />
+![](/gregr/weblog/assets/postImages/ngos_folder1.gif)
 
 This shows me dragging a feed into the "NG blogs" folder.  Nothing to learn, nothing to think about...just drag it in there.  Unsubscribe, rename, and more are in the right-click menu on each feed/folder:
 
-<img src="/gregr/weblog/assets/postImages/ngos_folder2.gif" data-hspace="0" data-align="baseline" data-border="0" />
+![](/gregr/weblog/assets/postImages/ngos_folder2.gif)
 
 So anyway, take a look, and let us know what you think...we have a lot more coming for you soon!  And NewsGator Outlook edition, FeedDemon, and NetNewsWire are all nearing new releases...and after using all of them over the last few weeks, I can tell you that the synchronization and usability story is awesome.  More to come!

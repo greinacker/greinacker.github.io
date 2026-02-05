@@ -15,6 +15,6 @@ Phil's built a [video feed](http://www.philliptorrone.com/ptvideo/rss.xml), opti
 
 He works for Fallon Worldwide, which is the company behind BMW Films...which is good for us, because Phil's feed even includes his favorite episode from the BMW Films series! Here's a screen shot running in NewsGator Media Center edition:
 
-[<img src="/gregr/weblog/assets/postImages/ptvideo_sm.gif" data-hspace="0" data-align="baseline" data-border="0" />](/gregr/weblog/assets/postImages/ptvideo.gif)
+[![](/gregr/weblog/assets/postImages/ptvideo_sm.gif)](/gregr/weblog/assets/postImages/ptvideo.gif)
 
 Nice job, Phil! For any of you already running NewsGator Media Center edition, Phil's feed can be added from the "Featured Feeds" section.

@@ -9,7 +9,7 @@ tags: []
 ---
 By now you've probably seen the [announcement](http://www.newsgator.com/news/archive.aspx?post=34) for NewsGator Media Center Edition - we're very excited about this! There is a lot more info [here](http://services.newsgator.com/ProdInfo_mce.aspx), including [lots of screenshots](http://services.newsgator.com/ProdInfo_mce.aspx). Check it out! Here's one as a teaser:
 
-[<img src="http://services.newsgator.com/images/tour_ngmce7_sm.gif" data-hspace="0" data-align="baseline" data-border="0" />](http://services.newsgator.com/images/tour_ngmce7.gif)
+[![](http://services.newsgator.com/images/tour_ngmce7_sm.gif)](http://services.newsgator.com/images/tour_ngmce7.gif)
 
 Yep, that's a video stream from a RSS enclosure playing in the lower left corner. One more click of the remote, and it's [full screen](http://services.newsgator.com/images/tour_ngmce8.jpg). (And yes, it's from Microsoft's [Channel 9](http://channel9.msdn.com) video feed)
 

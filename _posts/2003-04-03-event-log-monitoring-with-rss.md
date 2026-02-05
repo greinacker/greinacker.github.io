@@ -11,7 +11,7 @@ I've written some sample code to generate a RSS feed from the Windows Event Logs
 
 Here's an screen shot showing it in [NewsGator](http://www.newsgator.com/) (click for larger version):
 
-[<img src="/gregr/weblog/assets/postImages/evrss2.gif" data-border="0" data-hspace="0" data-align="baseline" />](/gregr/weblog/assets/postImages/evrss1.gif)
+[![](/gregr/weblog/assets/postImages/evrss2.gif)](/gregr/weblog/assets/postImages/evrss1.gif)
 
 You can specify in the URL how many entries to return, and which logs to use. For example,
 

@@ -19,7 +19,7 @@ Yep, that sounded like the problem. Our internal and external DNS for our corpor
 
 But it turns out there is a workaround that works for me. If you go into Settings / Wi-Fi, find your wi-fi network, and click the blue button next to it, you'll see something like the following:
 
-<img src="/gregr/weblog/assets/uploads/2008/07/photo.jpg" data-border="0" width="160" height="240" alt="photo.jpg" />
+![photo.jpg](/gregr/weblog/assets/uploads/2008/07/photo.jpg)
 
 And here's the tricky part. Tap on the "DNS" setting, and edit it. In my case, rather than using the internal DHCP-assigned DNS servers, I typed in two external DNS servers. These new servers will override whatever is returned from DHCP, and when asked for the IP of our mail server, they will return the externally-facing IP, since that's all they know about.
 

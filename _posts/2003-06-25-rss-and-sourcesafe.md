@@ -9,7 +9,7 @@ tags: []
 ---
 Hot out of the RAI lab...RSS feeds generated from Visual SourceSafe. Many development shops use some kind of email notification for source changes - and this is a perfect application of RSS. Here's a screen shot in [NewsGator](http://www.newsgator.com/) with Outlook 2003:
 
-[<img src="/gregr/weblog/assets/postImages/vss1.gif" data-hspace="0" data-align="baseline" data-border="0" />](/gregr/weblog/assets/postImages/vss2.gif)
+[![](/gregr/weblog/assets/postImages/vss1.gif)](/gregr/weblog/assets/postImages/vss2.gif)
 
 This currently runs as a Windows service, and periodically generates the RSS file(s). To get it running, do the following:
 

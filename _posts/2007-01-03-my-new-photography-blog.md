@@ -13,6 +13,6 @@ I've got a lot to say about all of that, and I agonized for a while about where 
 
 So go take a look, and don't forget to subscribe to my new blog! I have the feed links below...see you there!
 
-<a href="http://feeds.feedburner.com/gregrphoto" type="application/rss+xml" rel="alternate"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" /></a> <a href="http://feeds.feedburner.com/gregrphoto" type="application/rss+xml" rel="alternate">Subscribe!</a>
+[![](http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/gregrphoto) <a href="http://feeds.feedburner.com/gregrphoto" type="application/rss+xml" rel="alternate">Subscribe!</a>
 
-[<img src="http://www.newsgator.com/images/ngsub1.gif" style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" alt="Subscribe in NewsGator Online" />](http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds.feedburner.com/gregrphoto "Greg Reinacker Photography Blog")
+[![Subscribe in NewsGator Online](http://www.newsgator.com/images/ngsub1.gif)](http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds.feedburner.com/gregrphoto "Greg Reinacker Photography Blog")

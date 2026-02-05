@@ -68,7 +68,7 @@ The script will create a new VPS, and will copy the public IP of the new node to
 
 To make things a bit more automated, I run the script from a workflow in the [Workflow](https://appsto.re/us/2IzJ2) app; here is a screenshot of the workflow I use:
 
-<img src="/gregr/weblog/assets/uploads/2016/01/image.jpeg" class="aligncenter size-full wp-image-1139" width="1645" height="1158" alt="image" />
+![image](/gregr/weblog/assets/uploads/2016/01/image.jpeg)
 
 It's quite simple - it just runs the Pythonista script, sending "workflow://" as the return URL, and then opens Coda, with the new IP address on the clipboard ready to paste into your site configuration. I add a shortcut to the workflow to my home screen, and I can spin up a new node with literally one tap. But if you want to, you could do the equivalent without using Workflow at all in this case.
 

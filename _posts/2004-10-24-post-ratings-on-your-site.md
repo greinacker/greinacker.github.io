@@ -9,7 +9,7 @@ tags: []
 ---
 One of the cool free features of the new NewsGator Online is the built-in rating system for content.  For every post you read within NewsGator Online, you can give it a rating from 1 to 5 stars, and see the community rating as well:
 
-> <img src="/gregr/weblog/assets/postImages/exampleratings.gif" data-hspace="0" data-align="baseline" data-border="0" />
+> ![](/gregr/weblog/assets/postImages/exampleratings.gif)
 
 In the example above, the red stars are my own rating (I liked this post that I wrote, so I gave it a 5!), and the community average rating is shown by the orange (4 in this example).
 

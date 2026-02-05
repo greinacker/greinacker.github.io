@@ -11,7 +11,7 @@ I'm usually not one to just post other people's stuff verbatim, but [this post](
 
 > *Interesting* [*NewsGator*](http://www.newsgator.com/) *trick: Put all or most of your feeds into one Outlook folder, and give it a timeline view filtering out read items. What you get is a scrollable "space" containing a mixed variety of news items -- scroll left and right to move around in time, and up and down to view posts within that window of time.*
 >
-> [<img src="http://www.phoenixtrap.com/~mjg/images/ng_screenshot_thumb.png" data-align="right" alt="detail of NewsGator timeline view" />](http://www.phoenixtrap.com/~mjg/images/ng_screenshot.png "NewsGator timeline view")
+> [![detail of NewsGator timeline view](http://www.phoenixtrap.com/~mjg/images/ng_screenshot_thumb.png)](http://www.phoenixtrap.com/~mjg/images/ng_screenshot.png "NewsGator timeline view")
 >
 > *I find this helps me catch up on a variety of sites that I might otherwise miss from having to drill down to individual feeds, or having to scroll down through the entirety of a feed's updates just to get to the next one. When they're jumbled like this, yet still organized by time, I can quickly scan through looking for the latest interesting stuff.  *
 >

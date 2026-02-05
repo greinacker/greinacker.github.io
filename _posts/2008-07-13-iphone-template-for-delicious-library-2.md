@@ -26,7 +26,7 @@ What I really wanted was one page with all my books, or at least 100 or so of th
 
 While I was browsing around, trying to figure out a way around this problem, I saw [Mark Burgess' site](http://www.markburgess.us/moresoftware/), and he had some sample templates. While his template wasn't what I wanted, it showed me how to make one. So I worked on it for a bit, basically just modifying the one that ships with DL2, and this is what I ended up with:
 
-<img src="/gregr/weblog/assets/uploads/2008/07/dliphone.jpg" data-border="0" width="160" height="240" alt="DLiphone.jpg" />
+![DLiphone.jpg](/gregr/weblog/assets/uploads/2008/07/dliphone.jpg)
 
 Over 200 books on one page, and it's coming in at just over 200KB including the images on the page. Now that I can live with!
 

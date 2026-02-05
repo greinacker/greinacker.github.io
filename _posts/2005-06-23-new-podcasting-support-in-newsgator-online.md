@@ -21,19 +21,19 @@ Since a picture is worth 1000 words, and I'm not a very fast typist, let me just
 
 We're browsing through a feed in NewsGator Web edition, and we see a podcast we want to download.  Just click the "Add to Podcasts" link:
 
-> <img src="/gregr/weblog/assets/postImages/podcast1.gif" data-hspace="0" data-align="baseline" data-border="0" />
+> ![](/gregr/weblog/assets/postImages/podcast1.gif)
 
 And then you'll see it show up in your "My Podcasts" folder:
 
-> <img src="/gregr/weblog/assets/postImages/podcast2.gif" data-hspace="0" data-align="baseline" data-border="0" />
+> ![](/gregr/weblog/assets/postImages/podcast2.gif)
 
 FeedStation is running in the system tray:
 
-> <img src="/gregr/weblog/assets/postImages/podcast3.gif" data-hspace="0" data-align="baseline" data-border="0" />
+> ![](/gregr/weblog/assets/postImages/podcast3.gif)
 
 ...and downloads the selected items.
 
-> <img src="/gregr/weblog/assets/postImages/podcast4.gif" data-hspace="0" data-align="baseline" data-border="0" />
+> ![](/gregr/weblog/assets/postImages/podcast4.gif)
 
 I don't have a picture handy of it working with WMP or iTunes, but I promise it does. :-)
 

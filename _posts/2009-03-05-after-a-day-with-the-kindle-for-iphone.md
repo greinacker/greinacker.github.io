@@ -34,4 +34,3 @@ Bad:
 \- While the "swipe" is intuitive to change pages, it's not very much fun after you've done it 50 times in a row. They should make it so if you tap somewhere, it skips to the next page.
 
 All in all - it's not the same as a Kindle, or similar to a book for that matter. The screen is small, and it's backlit and less comfortable to read, at least for me. I wouldn't want to read a whole book on this screen myself - but for short breaks, it works quite well. And somehow, I feel like my e-books are worth more now that I can read them in multiple places. :-)  
-<img src="https://www.assoc-amazon.com/e/ir?t=gregreinphotb-20&amp;l=ur2&amp;o=1" style="border:none !important; margin:0px !important;" data-border="0" width="1" height="1" /><img src="http://www.assoc-amazon.com/e/ir?t=gregreinphotb-20&amp;l=as2&amp;o=1&amp;a=B00154JDAI" style="border:none !important; margin:0px !important;" data-border="0" width="1" height="1" />

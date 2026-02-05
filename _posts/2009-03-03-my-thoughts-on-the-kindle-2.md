@@ -9,7 +9,7 @@ tags:
 - review
 - kindle
 ---
-[<img src="/gregr/weblog/assets/uploads/2009/03/42d7792b-9f97-41bd-8dbe-e7124c65212d.jpg" title="Kindle 2" class="alignright size-full wp-image-574" data-border="0" data-align="right" width="160" height="160" alt="Kindle 2" />](http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&tag=gregreinphotb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00154JDAI)Pretty much everyone and their uncle has written about the [Kindle 2](http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&tag=gregreinphotb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00154JDAI) now. Not one to be left behind, I wanted to write down my thoughts.
+[![Kindle 2](/gregr/weblog/assets/uploads/2009/03/42d7792b-9f97-41bd-8dbe-e7124c65212d.jpg)](http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&tag=gregreinphotb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00154JDAI)Pretty much everyone and their uncle has written about the [Kindle 2](http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&tag=gregreinphotb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00154JDAI) now. Not one to be left behind, I wanted to write down my thoughts.
 
 I never had a Kindle 1. I looked at a friend's once, and read some reviews and such, but that was the extent of my experience. But when the Kindle 2 started shipping last week, I ordered one. I've now read about one and a half books on it, and wanted to write about it.
 
@@ -39,4 +39,4 @@ I do wish it had more screen and less keyboard...but I suppose you can't have ev
 
 So all in all, I'm liking the Kindle a lot. It's small, light, and should be easy to travel with. I don't notice it when I'm reading. It just works.
 
-(Note - Amazon.com links in this post are affiliate links; if you use one to buy something, maybe I'll make enough to buy a new book!)<img src="http://www.assoc-amazon.com/e/ir?t=gregreinphotb-20&amp;l=as2&amp;o=1&amp;a=B00154JDAI" style="border:none !important; margin:0px !important;" data-border="0" width="1" height="1" /><img src="http://www.assoc-amazon.com/e/ir?t=gregreinphotb-20&amp;l=as2&amp;o=1&amp;a=B001JAH7OM" style="border:none !important; margin:0px !important;" data-border="0" width="1" height="1" />
+(Note - Amazon.com links in this post are affiliate links; if you use one to buy something, maybe I'll make enough to buy a new book!)![](http://www.assoc-amazon.com/e/ir?t=gregreinphotb-20&amp;l=as2&amp;o=1&amp;a=B00154JDAI)![](http://www.assoc-amazon.com/e/ir?t=gregreinphotb-20&amp;l=as2&amp;o=1&amp;a=B001JAH7OM)
