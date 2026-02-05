@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and APML
 date: '2008-05-21 07:30:00 -0600'
-date_gmt: '2008-05-21 14:30:00 -0600'
 categories:
 - newsgator
 - internet

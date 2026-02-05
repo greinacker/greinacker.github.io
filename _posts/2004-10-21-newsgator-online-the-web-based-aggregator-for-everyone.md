@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Online - the web-based aggregator for everyone
 date: '2004-10-21 19:27:19 -0600'
-date_gmt: '2004-10-22 02:27:19 -0600'
 categories:
 - newsgator
 tags: []

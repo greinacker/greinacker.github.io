@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS/Atom security risks and FeedDemon
 date: '2006-08-07 10:58:38 -0600'
-date_gmt: '2006-08-07 17:58:38 -0600'
 categories:
 - newsgator
 tags: []

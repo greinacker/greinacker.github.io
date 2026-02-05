@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: A couple of weblogs you're probably not reading yet
 date: '2003-03-31 10:46:14 -0700'
-date_gmt: '2003-03-31 17:46:14 -0700'
 categories:
 - Uncategorized
 tags: []

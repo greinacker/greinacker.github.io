@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: FeedDemon 2.0, NewsGator Inbox 2.6, and a whole new online look!
 date: '2006-03-27 12:08:15 -0700'
-date_gmt: '2006-03-27 19:08:15 -0700'
 categories:
 - newsgator
 tags: []

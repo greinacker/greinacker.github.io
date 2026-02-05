@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: COM Interop and .NET
 date: '2003-08-08 12:26:35 -0600'
-date_gmt: '2003-08-08 19:26:35 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Dreams and stuff
 date: '2004-09-17 14:06:24 -0600'
-date_gmt: '2004-09-17 21:06:24 -0600'
 categories:
 - Uncategorized
 tags: []

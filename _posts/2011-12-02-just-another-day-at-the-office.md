@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Just another day at the office
 date: '2011-12-02 10:19:41 -0700'
-date_gmt: '2011-12-02 17:19:41 -0700'
 categories:
 - video
 tags:

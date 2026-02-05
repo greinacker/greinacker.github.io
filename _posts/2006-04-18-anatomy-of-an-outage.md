@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Anatomy of an outage
 date: '2006-04-18 14:20:37 -0600'
-date_gmt: '2006-04-18 21:20:37 -0600'
 categories:
 - newsgator
 tags: []

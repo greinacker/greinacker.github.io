@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Microsoft Certified Trainers - Quality?
 date: '2002-06-05 00:08:37 -0600'
-date_gmt: '2002-06-05 07:08:37 -0600'
 categories:
 - Uncategorized
 tags: []

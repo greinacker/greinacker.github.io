@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'MSDN Article: HTTP Security and ASP.NET Web Services'
 date: '2002-08-08 10:28:57 -0600'
-date_gmt: '2002-08-08 17:28:57 -0600'
 categories:
 - Uncategorized
 tags: []

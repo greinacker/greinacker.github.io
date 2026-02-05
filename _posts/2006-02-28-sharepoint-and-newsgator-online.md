@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sharepoint and NewsGator Online
 date: '2006-02-28 17:09:04 -0700'
-date_gmt: '2006-03-01 00:09:04 -0700'
 categories:
 - newsgator
 tags: []

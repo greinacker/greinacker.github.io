@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator timeline view
 date: '2003-04-01 15:08:51 -0700'
-date_gmt: '2003-04-01 22:08:51 -0700'
 categories:
 - newsgator
 tags: []

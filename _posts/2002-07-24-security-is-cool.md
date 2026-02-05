@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Security is cool!
 date: '2002-07-24 12:55:06 -0600'
-date_gmt: '2002-07-24 19:55:06 -0600'
 categories:
 - Uncategorized
 tags: []

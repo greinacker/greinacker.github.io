@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Cold calling (from the callee's perspective)
 date: '2008-02-06 17:27:00 -0700'
-date_gmt: '2008-02-07 00:27:00 -0700'
 categories:
 - Uncategorized
 tags: []

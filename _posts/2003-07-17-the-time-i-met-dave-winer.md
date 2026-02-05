@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The time I met Dave Winer
 date: '2003-07-17 17:56:22 -0600'
-date_gmt: '2003-07-18 00:56:22 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and 618 weblogs
 date: '2003-10-20 09:46:10 -0600'
-date_gmt: '2003-10-20 16:46:10 -0600'
 categories:
 - newsgator
 tags: []

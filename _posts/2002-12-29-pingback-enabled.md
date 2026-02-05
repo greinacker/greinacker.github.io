@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Pingback Enabled
 date: '2002-12-29 14:10:03 -0700'
-date_gmt: '2002-12-29 21:10:03 -0700'
 categories:
 - Uncategorized
 tags: []

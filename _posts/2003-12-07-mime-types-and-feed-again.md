@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'MIME types and feed: again'
 date: '2003-12-07 11:08:38 -0700'
-date_gmt: '2003-12-07 18:08:38 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Photographs at Starbuck's
 date: '2003-05-23 15:21:47 -0600'
-date_gmt: '2003-05-23 22:21:47 -0600'
 categories:
 - photography
 tags: []

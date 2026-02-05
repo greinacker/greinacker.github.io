@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Looking for folks...
 date: '2003-10-10 08:43:06 -0600'
-date_gmt: '2003-10-10 15:43:06 -0600'
 categories:
 - Uncategorized
 tags: []

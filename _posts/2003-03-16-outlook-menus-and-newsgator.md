@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Outlook menus and NewsGator
 date: '2003-03-16 19:16:19 -0700'
-date_gmt: '2003-03-17 02:16:19 -0700'
 categories:
 - newsgator
 tags: []

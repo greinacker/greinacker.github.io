@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Pingback for Radio
 date: '2003-01-01 18:19:55 -0700'
-date_gmt: '2003-01-02 01:19:55 -0700'
 categories:
 - Uncategorized
 tags: []

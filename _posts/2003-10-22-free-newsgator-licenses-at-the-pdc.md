@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Free NewsGator licenses at the PDC
 date: '2003-10-22 10:22:25 -0600'
-date_gmt: '2003-10-22 17:22:25 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Desktop Sync for IE7 and Vista
 date: '2006-09-19 10:49:36 -0600'
-date_gmt: '2006-09-19 17:49:36 -0600'
 categories:
 - newsgator
 tags: []

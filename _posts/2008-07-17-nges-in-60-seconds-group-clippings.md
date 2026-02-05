@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NGES in 60 seconds - group clippings
 date: 2008-07-17 16:32:16 -0600
-date_gmt: 2008-07-17 22:32:16 -0600
 categories:
   - newsgator
 tags: []

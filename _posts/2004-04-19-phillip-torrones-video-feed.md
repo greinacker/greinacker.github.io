@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Phillip Torrone's video feed
 date: '2004-04-19 16:16:44 -0600'
-date_gmt: '2004-04-19 23:16:44 -0600'
 categories:
 - Uncategorized
 tags: []

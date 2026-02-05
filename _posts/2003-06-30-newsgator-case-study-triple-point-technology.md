@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator case study - Triple Point Technology
 date: '2003-06-30 16:16:13 -0600'
-date_gmt: '2003-06-30 23:16:13 -0600'
 categories:
 - newsgator
 tags: []

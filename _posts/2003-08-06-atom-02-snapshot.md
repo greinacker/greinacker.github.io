@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Atom 0.2 snapshot
 date: '2003-08-06 13:15:48 -0600'
-date_gmt: '2003-08-06 20:15:48 -0600'
 categories:
 - Uncategorized
 tags: []

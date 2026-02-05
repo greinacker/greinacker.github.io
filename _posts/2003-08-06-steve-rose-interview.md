@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Steve Rose Interview
 date: '2003-08-06 12:50:39 -0600'
-date_gmt: '2003-08-06 19:50:39 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: GUI work is an art
 date: '2002-10-31 16:52:54 -0700'
-date_gmt: '2002-10-31 23:52:54 -0700'
 categories:
 - Uncategorized
 tags: []

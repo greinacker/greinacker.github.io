@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Red Sweater Software Acquires MarsEdit
 date: '2007-02-22 08:13:29 -0700'
-date_gmt: '2007-02-22 15:13:29 -0700'
 categories:
 - newsgator
 tags: []

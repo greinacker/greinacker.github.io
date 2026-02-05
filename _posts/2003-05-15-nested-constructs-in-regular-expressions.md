@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Nested Constructs in Regular Expressions
 date: '2003-05-15 17:45:10 -0600'
-date_gmt: '2003-05-16 00:45:10 -0600'
 categories:
 - Uncategorized
 tags: []

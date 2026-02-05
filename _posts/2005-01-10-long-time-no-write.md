@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Long time no write
 date: '2005-01-10 18:55:02 -0700'
-date_gmt: '2005-01-11 01:55:02 -0700'
 categories:
 - Uncategorized
 tags: []

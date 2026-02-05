@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Implied Volatility
 date: '2010-05-10 16:11:58 -0600'
-date_gmt: '2010-05-10 23:11:58 -0600'
 categories:
 - trading
 tags:

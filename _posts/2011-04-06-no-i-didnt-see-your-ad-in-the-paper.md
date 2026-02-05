@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: No, I didn't see your ad in the paper
 date: '2011-04-06 11:14:39 -0600'
-date_gmt: '2011-04-06 17:14:39 -0600'
 categories:
 - internet
 tags:

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: My new photography blog!
 date: '2007-01-03 14:09:20 -0700'
-date_gmt: '2007-01-03 21:09:20 -0700'
 categories:
 - photography
 tags: []

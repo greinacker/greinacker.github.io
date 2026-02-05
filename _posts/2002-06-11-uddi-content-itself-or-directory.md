@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: UDDI - content itself, or directory?
 date: '2002-06-11 22:19:15 -0600'
-date_gmt: '2002-06-12 05:19:15 -0600'
 categories:
 - Uncategorized
 tags: []

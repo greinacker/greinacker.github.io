@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Subscription list updated
 date: '2003-03-31 19:03:48 -0700'
-date_gmt: '2003-04-01 02:03:48 -0700'
 categories:
 - Uncategorized
 tags: []

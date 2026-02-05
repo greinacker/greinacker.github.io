@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New guy on the block...
 date: '2005-02-17 17:00:54 -0700'
-date_gmt: '2005-02-18 00:00:54 -0700'
 categories:
 - Uncategorized
 tags: []

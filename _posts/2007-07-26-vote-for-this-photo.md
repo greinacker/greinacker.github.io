@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Vote for this photo!
 date: '2007-07-26 21:16:08 -0600'
-date_gmt: '2007-07-27 04:16:08 -0600'
 categories:
 - photography
 tags: []

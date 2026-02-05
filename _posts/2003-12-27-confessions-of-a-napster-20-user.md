@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Confessions of a Napster 2.0 user
 date: '2003-12-27 13:23:18 -0700'
-date_gmt: '2003-12-27 20:23:18 -0700'
 categories:
 - Uncategorized
 tags: []

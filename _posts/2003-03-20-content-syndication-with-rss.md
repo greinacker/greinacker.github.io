@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Content Syndication with RSS
 date: '2003-03-20 14:30:47 -0700'
-date_gmt: '2003-03-20 21:30:47 -0700'
 categories:
 - Uncategorized
 tags: []

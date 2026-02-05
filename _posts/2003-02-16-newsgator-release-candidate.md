@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator release candidate
 date: '2003-02-16 17:05:31 -0700'
-date_gmt: '2003-02-17 00:05:31 -0700'
 categories:
 - newsgator
 tags: []

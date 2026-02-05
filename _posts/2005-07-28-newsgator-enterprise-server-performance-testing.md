@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server performance testing
 date: '2005-07-28 17:11:12 -0600'
-date_gmt: '2005-07-29 00:11:12 -0600'
 categories:
 - newsgator
 tags: []

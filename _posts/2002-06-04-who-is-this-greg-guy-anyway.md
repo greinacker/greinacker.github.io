@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Who is this Greg guy anyway?
 date: '2002-06-04 08:30:54 -0600'
-date_gmt: '2002-06-04 15:30:54 -0600'
 categories:
 - Uncategorized
 tags: []

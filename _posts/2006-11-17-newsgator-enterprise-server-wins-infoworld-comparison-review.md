@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server wins InfoWorld comparison review
 date: '2006-11-17 08:23:47 -0700'
-date_gmt: '2006-11-17 15:23:47 -0700'
 categories:
 - newsgator
 tags: []

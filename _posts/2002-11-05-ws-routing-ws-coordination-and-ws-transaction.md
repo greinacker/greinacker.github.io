@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: WS-Routing, WS-Coordination, and WS-Transaction
 date: '2002-11-05 09:28:26 -0700'
-date_gmt: '2002-11-05 16:28:26 -0700'
 categories:
 - Uncategorized
 tags: []

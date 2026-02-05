@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sun and WS-Security
 date: '2002-06-27 09:19:09 -0600'
-date_gmt: '2002-06-27 16:19:09 -0600'
 categories:
 - Uncategorized
 tags: []

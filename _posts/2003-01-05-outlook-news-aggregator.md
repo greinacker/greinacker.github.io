@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Outlook News Aggregator
 date: '2003-01-05 11:35:34 -0700'
-date_gmt: '2003-01-05 18:35:34 -0700'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server in beta!
 date: '2005-06-14 18:39:52 -0600'
-date_gmt: '2005-06-15 01:39:52 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Orbz in the Arcade
 date: '2004-04-01 18:42:09 -0700'
-date_gmt: '2004-04-02 01:42:09 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator extensions
 date: '2004-02-18 17:59:55 -0700'
-date_gmt: '2004-02-19 00:59:55 -0700'
 categories:
 - newsgator
 tags: []

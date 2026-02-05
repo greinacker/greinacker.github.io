@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: More on Caching
 date: '2003-01-01 12:00:16 -0700'
-date_gmt: '2003-01-01 19:00:16 -0700'
 categories:
 - Uncategorized
 tags: []

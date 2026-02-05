@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Chris takes me to task
 date: '2005-05-04 11:36:08 -0600'
-date_gmt: '2005-05-04 18:36:08 -0600'
 categories:
 - Uncategorized
 tags: []

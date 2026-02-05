@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Valvoline Runoffs Results
 date: '2002-09-23 08:29:42 -0600'
-date_gmt: '2002-09-23 15:29:42 -0600'
 categories:
 - Uncategorized
 tags: []

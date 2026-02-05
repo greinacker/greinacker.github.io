@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS "security"
 date: '2005-09-08 19:20:54 -0600'
-date_gmt: '2005-09-09 02:20:54 -0600'
 categories:
 - Uncategorized
 tags: []

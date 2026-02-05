@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: And the blog moratorium shall end
 date: '2007-11-29 10:06:00 -0700'
-date_gmt: '2007-11-29 17:06:00 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'More on feed:'
 date: '2003-09-16 13:41:27 -0600'
-date_gmt: '2003-09-16 20:41:27 -0600'
 categories:
 - Uncategorized
 tags: []

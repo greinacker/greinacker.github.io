@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Changes afoot
 date: '2010-01-26 13:58:26 -0700'
-date_gmt: '2010-01-26 20:58:26 -0700'
 categories:
 - newsgator
 tags:

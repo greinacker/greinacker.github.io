@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Trackback Enabled
 date: '2002-12-30 23:48:15 -0700'
-date_gmt: '2002-12-31 06:48:15 -0700'
 categories:
 - Uncategorized
 tags: []

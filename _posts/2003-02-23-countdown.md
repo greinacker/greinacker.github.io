@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Countdown
 date: '2003-02-23 07:31:46 -0700'
-date_gmt: '2003-02-23 14:31:46 -0700'
 categories:
 - newsgator
 tags: []

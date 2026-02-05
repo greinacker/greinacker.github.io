@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: EContent Top 100 - NewsGator Technologies
 date: '2003-12-11 14:37:33 -0700'
-date_gmt: '2003-12-11 21:37:33 -0700'
 categories:
 - newsgator
 tags: []

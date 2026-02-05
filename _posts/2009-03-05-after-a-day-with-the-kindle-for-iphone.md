@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: After a day with the Kindle for iPhone
 date: '2009-03-05 18:08:52 -0700'
-date_gmt: '2009-03-06 01:08:52 -0700'
 categories:
 - iphone
 - kindle

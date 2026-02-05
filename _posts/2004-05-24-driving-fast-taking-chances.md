@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Driving Fast, Taking Chances...
 date: '2004-05-24 14:29:01 -0600'
-date_gmt: '2004-05-24 21:29:01 -0600'
 categories:
 - Uncategorized
 tags: []

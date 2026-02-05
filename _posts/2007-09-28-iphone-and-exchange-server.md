@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: iPhone and Exchange Server
 date: '2007-09-28 14:11:58 -0600'
-date_gmt: '2007-09-28 21:11:58 -0600'
 categories:
 - apple
 - iphone

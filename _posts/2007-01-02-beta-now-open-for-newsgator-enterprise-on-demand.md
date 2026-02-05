@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Beta now open for NewsGator Enterprise On-Demand
 date: '2007-01-02 17:27:10 -0700'
-date_gmt: '2007-01-03 00:27:10 -0700'
 categories:
 - newsgator
 tags: []

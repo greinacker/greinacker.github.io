@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Who says Semiconductor Physics can't be fun?
 date: '2002-06-05 17:51:45 -0600'
-date_gmt: '2002-06-06 00:51:45 -0600'
 categories:
 - Uncategorized
 tags: []

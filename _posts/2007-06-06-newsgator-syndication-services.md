@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Syndication Services
 date: '2007-06-06 20:51:41 -0600'
-date_gmt: '2007-06-07 03:51:41 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Zero to PostgreSQL streaming replication in 10 mins
 date: '2013-02-16 14:10:04 -0700'
-date_gmt: '2013-02-16 21:10:04 -0700'
 categories:
 - development
 tags:

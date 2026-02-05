@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS and Authentication
 date: '2003-08-10 22:01:09 -0600'
-date_gmt: '2003-08-11 05:01:09 -0600'
 categories:
 - Uncategorized
 tags: []

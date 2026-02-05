@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Facebook's crazy terms of use
 date: '2008-01-14 21:50:50 -0700'
-date_gmt: '2008-01-15 04:50:50 -0700'
 categories:
 - photography
 tags: []

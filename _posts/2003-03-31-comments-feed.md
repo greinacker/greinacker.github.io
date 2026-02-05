@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Comments feed
 date: '2003-03-31 12:10:33 -0700'
-date_gmt: '2003-03-31 19:10:33 -0700'
 categories:
 - Uncategorized
 tags: []

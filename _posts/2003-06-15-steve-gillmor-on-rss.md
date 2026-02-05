@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Steve Gillmor on RSS
 date: '2003-06-15 12:28:35 -0600'
-date_gmt: '2003-06-15 19:28:35 -0600'
 categories:
 - Uncategorized
 tags: []

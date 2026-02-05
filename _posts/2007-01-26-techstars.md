@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: TechStars
 date: '2007-01-26 14:36:58 -0700'
-date_gmt: '2007-01-26 21:36:58 -0700'
 categories:
 - Uncategorized
 tags: []

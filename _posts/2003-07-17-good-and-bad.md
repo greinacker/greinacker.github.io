@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Good and Bad...
 date: '2003-07-17 13:04:28 -0600'
-date_gmt: '2003-07-17 20:04:28 -0600'
 categories:
 - Uncategorized
 tags: []

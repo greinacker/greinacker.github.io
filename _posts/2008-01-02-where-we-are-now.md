@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Where we are now
 date: '2008-01-02 16:03:48 -0700'
-date_gmt: '2008-01-02 23:03:48 -0700'
 categories:
 - newsgator
 tags: []

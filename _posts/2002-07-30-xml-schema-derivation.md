@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: XML Schema derivation
 date: '2002-07-30 13:47:42 -0600'
-date_gmt: '2002-07-30 20:47:42 -0600'
 categories:
 - Uncategorized
 tags: []

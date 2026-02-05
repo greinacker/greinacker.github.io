@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Improved Referrer Logs
 date: '2003-01-02 16:02:24 -0700'
-date_gmt: '2003-01-02 23:02:24 -0700'
 categories:
 - Uncategorized
 tags: []

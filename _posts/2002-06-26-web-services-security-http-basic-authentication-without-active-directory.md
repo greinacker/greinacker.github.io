@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Security - HTTP Basic Authentication without Active Directory
 date: '2002-06-26 08:00:08 -0600'
-date_gmt: '2002-06-26 15:00:08 -0600'
 categories:
 - Uncategorized
 tags: []

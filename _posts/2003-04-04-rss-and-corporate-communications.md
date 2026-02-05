@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS and corporate communications
 date: '2003-04-04 16:33:51 -0700'
-date_gmt: '2003-04-04 23:33:51 -0700'
 categories:
 - Uncategorized
 tags: []

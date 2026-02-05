@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator subscriber counts
 date: '2008-02-03 15:06:47 -0700'
-date_gmt: '2008-02-03 22:06:47 -0700'
 categories:
 - newsgator
 tags: []

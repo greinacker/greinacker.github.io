@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server free for 20 users!
 date: '2008-05-20 09:49:58 -0600'
-date_gmt: '2008-05-20 16:49:58 -0600'
 categories:
 - newsgator
 tags: []

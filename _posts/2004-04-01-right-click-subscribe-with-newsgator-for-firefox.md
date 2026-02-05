@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Right-click subscribe with NewsGator for Firefox
 date: '2004-04-01 10:55:51 -0700'
-date_gmt: '2004-04-01 17:55:51 -0700'
 categories:
 - newsgator
 tags: []

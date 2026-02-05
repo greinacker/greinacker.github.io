@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: How should aggregators work?
 date: '2003-05-14 13:24:25 -0600'
-date_gmt: '2003-05-14 20:24:25 -0600'
 categories:
 - Uncategorized
 tags: []

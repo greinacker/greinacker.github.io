@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Migration to Wordpress
 date: '2007-11-29 14:02:53 -0700'
-date_gmt: '2007-11-29 21:02:53 -0700'
 categories:
 - Uncategorized
 tags: []

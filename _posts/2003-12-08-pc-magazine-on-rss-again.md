@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: PC Magazine on RSS again
 date: '2003-12-08 09:34:40 -0700'
-date_gmt: '2003-12-08 16:34:40 -0700'
 categories:
 - Uncategorized
 tags: []

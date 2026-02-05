@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Second again
 date: '2003-05-25 20:25:23 -0600'
-date_gmt: '2003-05-26 03:25:23 -0600'
 categories:
 - Uncategorized
 tags: []

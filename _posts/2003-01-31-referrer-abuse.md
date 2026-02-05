@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Referrer abuse?
 date: '2003-01-31 12:42:58 -0700'
-date_gmt: '2003-01-31 19:42:58 -0700'
 categories:
 - Uncategorized
 tags: []

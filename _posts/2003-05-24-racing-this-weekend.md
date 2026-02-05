@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Racing this weekend
 date: '2003-05-24 21:48:29 -0600'
-date_gmt: '2003-05-25 04:48:29 -0600'
 categories:
 - Uncategorized
 tags: []

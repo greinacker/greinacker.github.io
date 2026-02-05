@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: eWeek reviews NewsGator
 date: '2003-08-25 17:50:14 -0600'
-date_gmt: '2003-08-26 00:50:14 -0600'
 categories:
 - newsgator
 tags: []

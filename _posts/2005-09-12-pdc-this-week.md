@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: PDC this week
 date: '2005-09-12 19:44:47 -0600'
-date_gmt: '2005-09-13 02:44:47 -0600'
 categories:
 - Uncategorized
 tags: []

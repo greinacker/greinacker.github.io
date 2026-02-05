@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and SharePoint - see it in a webinar!
 date: '2007-07-26 11:37:49 -0600'
-date_gmt: '2007-07-26 18:37:49 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: MPx200 sound quality
 date: '2003-10-22 13:54:55 -0600'
-date_gmt: '2003-10-22 20:54:55 -0600'
 categories:
 - Uncategorized
 tags: []

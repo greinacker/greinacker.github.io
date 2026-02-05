@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: REST vs. SOAP
 date: '2002-06-10 14:19:30 -0600'
-date_gmt: '2002-06-10 21:19:30 -0600'
 categories:
 - Uncategorized
 tags: []

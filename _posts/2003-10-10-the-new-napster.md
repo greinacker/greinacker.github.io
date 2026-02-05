@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The "new" Napster
 date: '2003-10-10 09:30:12 -0600'
-date_gmt: '2003-10-10 16:30:12 -0600'
 categories:
 - Uncategorized
 tags: []

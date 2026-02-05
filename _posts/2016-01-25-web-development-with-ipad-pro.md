@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web development with iPad Pro
 date: '2016-01-25 15:20:26 -0700'
-date_gmt: '2016-01-25 22:20:26 -0700'
 categories:
 - development
 tags:

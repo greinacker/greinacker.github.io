@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Front and rear wheel drive
 date: '2003-04-17 09:45:13 -0600'
-date_gmt: '2003-04-17 16:45:13 -0600'
 categories:
 - Uncategorized
 tags: []

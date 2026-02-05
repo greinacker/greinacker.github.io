@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Customized Amazon Feeds and NewsGator
 date: '2004-04-01 18:36:49 -0700'
-date_gmt: '2004-04-02 01:36:49 -0700'
 categories:
 - newsgator
 tags: []

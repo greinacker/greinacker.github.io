@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Whidbey delay, hotfixes, and PSS
 date: '2004-03-13 12:07:53 -0700'
-date_gmt: '2004-03-13 19:07:53 -0700'
 categories:
 - Uncategorized
 tags: []

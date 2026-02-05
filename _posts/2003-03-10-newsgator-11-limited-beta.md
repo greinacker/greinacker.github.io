@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator 1.1 limited beta
 date: '2003-03-10 09:52:51 -0700'
-date_gmt: '2003-03-10 16:52:51 -0700'
 categories:
 - newsgator
 tags: []

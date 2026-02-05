@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: My Thoughts on the Kindle 2
 date: '2009-03-03 17:27:24 -0700'
-date_gmt: '2009-03-04 00:27:24 -0700'
 categories:
 - kindle
 tags:

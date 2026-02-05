@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Data Modeling
 date: '2002-08-09 08:16:25 -0600'
-date_gmt: '2002-08-09 15:16:25 -0600'
 categories:
 - Uncategorized
 tags: []

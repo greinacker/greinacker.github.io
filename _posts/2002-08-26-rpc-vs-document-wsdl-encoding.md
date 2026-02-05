@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RPC vs. Document WSDL encoding
 date: '2002-08-26 09:19:12 -0600'
-date_gmt: '2002-08-26 16:19:12 -0600'
 categories:
 - Uncategorized
 tags: []

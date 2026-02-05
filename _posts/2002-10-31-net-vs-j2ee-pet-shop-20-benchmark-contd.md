@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: ".NET vs J2EE - Pet Shop 2.0 Benchmark, cont'd"
 date: '2002-10-31 22:52:16 -0700'
-date_gmt: '2002-11-01 05:52:16 -0700'
 categories:
 - Uncategorized
 tags: []

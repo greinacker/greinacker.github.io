@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Authentication and .NET Remoting
 date: '2002-10-20 18:29:06 -0600'
-date_gmt: '2002-10-21 01:29:06 -0600'
 categories:
 - Uncategorized
 tags: []

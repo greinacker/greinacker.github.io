@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Will Web Services aid DOS attacks?
 date: '2002-06-10 13:48:30 -0600'
-date_gmt: '2002-06-10 20:48:30 -0600'
 categories:
 - Uncategorized
 tags: []

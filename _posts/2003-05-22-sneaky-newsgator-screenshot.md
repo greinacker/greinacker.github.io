@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sneaky NewsGator screenshot
 date: '2003-05-22 12:39:01 -0600'
-date_gmt: '2003-05-22 19:39:01 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS Webcast
 date: '2004-06-09 09:18:59 -0600'
-date_gmt: '2004-06-09 16:18:59 -0600'
 categories:
 - Uncategorized
 tags: []

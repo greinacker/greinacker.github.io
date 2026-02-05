@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS "security", part deux - Web-based aggregators
 date: '2005-09-28 17:43:05 -0600'
-date_gmt: '2005-09-29 00:43:05 -0600'
 categories:
 - Uncategorized
 tags: []

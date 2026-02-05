@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Physicists Create Antimatter
 date: '2002-09-24 16:37:42 -0600'
-date_gmt: '2002-09-24 23:37:42 -0600'
 categories:
 - Uncategorized
 tags: []

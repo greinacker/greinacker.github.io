@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: ".NET Certification"
 date: '2002-06-21 09:42:32 -0600'
-date_gmt: '2002-06-21 16:42:32 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: BEA and IBM on Web Services Development
 date: '2002-09-11 15:54:25 -0600'
-date_gmt: '2002-09-11 22:54:25 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Choosing a photo hosting site
 date: '2005-11-22 16:54:36 -0700'
-date_gmt: '2005-11-22 23:54:36 -0700'
 categories:
 - photography
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: MacBook Pro retina pricing
 date: '2012-07-12 09:00:40 -0600'
-date_gmt: '2012-07-12 15:00:40 -0600'
 categories:
 - apple
 tags:

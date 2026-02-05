@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Collaboration
 date: '2002-12-30 08:54:19 -0700'
-date_gmt: '2002-12-30 15:54:19 -0700'
 categories:
 - Uncategorized
 tags: []

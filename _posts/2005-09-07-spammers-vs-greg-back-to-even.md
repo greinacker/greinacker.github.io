@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Spammers vs. Greg - back to even
 date: '2005-09-07 19:21:35 -0600'
-date_gmt: '2005-09-08 02:21:35 -0600'
 categories:
 - Uncategorized
 tags: []

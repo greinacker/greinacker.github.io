@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Online Travel
 date: '2002-07-06 21:05:47 -0600'
-date_gmt: '2002-07-07 04:05:47 -0600'
 categories:
 - Uncategorized
 tags: []

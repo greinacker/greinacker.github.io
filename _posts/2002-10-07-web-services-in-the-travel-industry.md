@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services in the Travel Industry
 date: '2002-10-07 15:26:02 -0600'
-date_gmt: '2002-10-07 22:26:02 -0600'
 categories:
 - Uncategorized
 tags: []

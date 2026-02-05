@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Fixed Digest Authentication Sample
 date: '2002-07-09 18:56:49 -0600'
-date_gmt: '2002-07-10 01:56:49 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Subscriptions with feed://
 date: '2003-09-15 07:50:52 -0600'
-date_gmt: '2003-09-15 14:50:52 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Weblog changes
 date: '2003-05-23 15:15:30 -0600'
-date_gmt: '2003-05-23 22:15:30 -0600'
 categories:
 - Uncategorized
 tags: []

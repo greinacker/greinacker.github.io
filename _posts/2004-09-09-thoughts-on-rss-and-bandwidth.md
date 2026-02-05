@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Thoughts on RSS and bandwidth
 date: '2004-09-09 23:58:34 -0600'
-date_gmt: '2004-09-10 06:58:34 -0600'
 categories:
 - Uncategorized
 tags: []

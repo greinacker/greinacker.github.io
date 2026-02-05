@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Image aggregator prototype
 date: '2006-01-19 14:16:26 -0700'
-date_gmt: '2006-01-19 21:16:26 -0700'
 categories:
 - newsgator
 - photography

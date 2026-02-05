@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGatorTV on YouTube
 date: '2007-04-22 14:33:47 -0600'
-date_gmt: '2007-04-22 21:33:47 -0600'
 categories:
 - newsgator
 tags: []

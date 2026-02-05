@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: My first computers
 date: '2007-07-27 07:47:53 -0600'
-date_gmt: '2007-07-27 14:47:53 -0600'
 categories:
 - Uncategorized
 tags: []

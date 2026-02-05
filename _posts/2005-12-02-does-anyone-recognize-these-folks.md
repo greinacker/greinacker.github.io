@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Does anyone recognize these folks?
 date: '2005-12-02 08:47:26 -0700'
-date_gmt: '2005-12-02 15:47:26 -0700'
 categories:
 - photography
 tags: []

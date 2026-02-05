@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Computer Science Education
 date: '2002-06-10 08:39:38 -0600'
-date_gmt: '2002-06-10 15:39:38 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: PPIR national
 date: '2003-05-27 09:12:01 -0600'
-date_gmt: '2003-05-27 16:12:01 -0600'
 categories:
 - Uncategorized
 tags: []

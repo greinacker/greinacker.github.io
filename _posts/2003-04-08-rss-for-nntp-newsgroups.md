@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS for NNTP Newsgroups
 date: '2003-04-08 12:46:16 -0600'
-date_gmt: '2003-04-08 19:46:16 -0600'
 categories:
 - Uncategorized
 tags: []

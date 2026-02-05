@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New Weblog
 date: '2002-12-29 09:44:09 -0700'
-date_gmt: '2002-12-29 16:44:09 -0700'
 categories:
 - Uncategorized
 tags: []

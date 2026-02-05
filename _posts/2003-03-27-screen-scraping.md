@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Screen Scraping
 date: '2003-03-27 18:27:32 -0700'
-date_gmt: '2003-03-28 01:27:32 -0700'
 categories:
 - Uncategorized
 tags: []

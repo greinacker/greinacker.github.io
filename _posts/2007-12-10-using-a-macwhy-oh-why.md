@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Using a Mac...why oh why?
 date: '2007-12-10 18:08:05 -0700'
-date_gmt: '2007-12-11 01:08:05 -0700'
 categories:
 - apple
 tags: []

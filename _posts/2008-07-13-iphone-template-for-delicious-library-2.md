@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: iPhone template for Delicious Library 2
 date: '2008-07-13 17:55:03 -0600'
-date_gmt: '2008-07-13 23:55:03 -0600'
 categories:
 - internet
 - iphone

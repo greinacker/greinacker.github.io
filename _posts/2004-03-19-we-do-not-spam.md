@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: We do NOT spam
 date: '2004-03-19 14:17:33 -0700'
-date_gmt: '2004-03-19 21:17:33 -0700'
 categories:
 - newsgator
 tags: []

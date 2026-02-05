@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Acknowledgements
 date: '2003-08-21 10:50:38 -0600'
-date_gmt: '2003-08-21 17:50:38 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: What's in a name?
 date: '2004-09-14 16:46:48 -0600'
-date_gmt: '2004-09-14 23:46:48 -0600'
 categories:
 - newsgator
 tags: []

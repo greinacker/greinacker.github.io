@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 3-part RSS interview online
 date: '2007-05-04 11:57:42 -0600'
-date_gmt: '2007-05-04 18:57:42 -0600'
 categories:
 - newsgator
 tags: []

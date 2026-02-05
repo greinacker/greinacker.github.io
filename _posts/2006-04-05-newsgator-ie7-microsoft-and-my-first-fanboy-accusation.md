@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator, IE7, Microsoft, and my first 'fanboy' accusation
 date: '2006-04-05 16:38:48 -0600'
-date_gmt: '2006-04-05 23:38:48 -0600'
 categories:
 - newsgator
 tags: []

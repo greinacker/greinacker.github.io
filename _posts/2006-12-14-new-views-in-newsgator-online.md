@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New views in NewsGator Online
 date: '2006-12-14 14:04:00 -0700'
-date_gmt: '2006-12-14 21:04:00 -0700'
 categories:
 - newsgator
 tags: []

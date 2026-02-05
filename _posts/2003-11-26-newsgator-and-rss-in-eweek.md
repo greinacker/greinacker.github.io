@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and RSS in eWeek
 date: '2003-11-26 14:22:41 -0700'
-date_gmt: '2003-11-26 21:22:41 -0700'
 categories:
 - newsgator
 tags: []

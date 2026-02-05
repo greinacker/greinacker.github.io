@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Going to DEMO
 date: '2004-02-09 10:11:49 -0700'
-date_gmt: '2004-02-09 17:11:49 -0700'
 categories:
 - Uncategorized
 tags: []

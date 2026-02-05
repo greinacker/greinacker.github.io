@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Media Center Edition in Online Spotlight
 date: '2004-06-04 10:55:36 -0600'
-date_gmt: '2004-06-04 17:55:36 -0600'
 categories:
 - newsgator
 tags: []

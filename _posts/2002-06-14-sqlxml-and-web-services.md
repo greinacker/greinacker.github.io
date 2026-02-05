@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: SQLXML and Web Services
 date: '2002-06-14 09:28:26 -0600'
-date_gmt: '2002-06-14 16:28:26 -0600'
 categories:
 - Uncategorized
 tags: []

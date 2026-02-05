@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: PC Magazine reviews NewsGator 2.0 and NGOS
 date: '2004-02-24 11:56:20 -0700'
-date_gmt: '2004-02-24 18:56:20 -0700'
 categories:
 - newsgator
 tags: []

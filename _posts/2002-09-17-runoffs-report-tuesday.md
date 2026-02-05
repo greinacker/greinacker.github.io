@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Runoffs Report - Tuesday
 date: '2002-09-17 11:05:41 -0600'
-date_gmt: '2002-09-17 18:05:41 -0600'
 categories:
 - Uncategorized
 tags: []

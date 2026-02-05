@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Well Formed Log Entries
 date: '2003-06-17 15:30:10 -0600'
-date_gmt: '2003-06-17 22:30:10 -0600'
 categories:
 - Uncategorized
 tags: []

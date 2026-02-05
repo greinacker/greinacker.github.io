@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Palladium - The Big Secret
 date: '2002-06-23 21:25:49 -0600'
-date_gmt: '2002-06-24 04:25:49 -0600'
 categories:
 - Uncategorized
 tags: []

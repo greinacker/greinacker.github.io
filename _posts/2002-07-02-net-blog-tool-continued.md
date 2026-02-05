@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: ".NET Blog tool, continued"
 date: '2002-07-02 17:46:34 -0600'
-date_gmt: '2002-07-03 00:46:34 -0600'
 categories:
 - Uncategorized
 tags: []

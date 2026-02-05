@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Online surveys - what not to do
 date: '2007-08-15 10:33:45 -0600'
-date_gmt: '2007-08-15 17:33:45 -0600'
 categories:
 - Uncategorized
 tags: []

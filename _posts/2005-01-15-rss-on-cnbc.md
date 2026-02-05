@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS on CNBC
 date: '2005-01-15 14:56:33 -0700'
-date_gmt: '2005-01-15 21:56:33 -0700'
 categories:
 - Uncategorized
 tags: []

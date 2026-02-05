@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Review - Zoto
 date: '2005-11-22 18:01:42 -0700'
-date_gmt: '2005-11-23 01:01:42 -0700'
 categories:
 - photography
 tags: []

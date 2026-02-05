@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Clemens and Gordon on XML Web Services
 date: '2002-07-23 18:00:21 -0600'
-date_gmt: '2002-07-24 01:00:21 -0600'
 categories:
 - Uncategorized
 tags: []

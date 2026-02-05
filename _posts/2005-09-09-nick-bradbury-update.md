@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Nick Bradbury Update
 date: '2005-09-09 13:47:09 -0600'
-date_gmt: '2005-09-09 20:47:09 -0600'
 categories:
 - newsgator
 tags: []

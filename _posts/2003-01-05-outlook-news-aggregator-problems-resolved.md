@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Outlook News Aggregator Problems Resolved
 date: '2003-01-05 23:13:09 -0700'
-date_gmt: '2003-01-06 06:13:09 -0700'
 categories:
 - newsgator
 tags: []

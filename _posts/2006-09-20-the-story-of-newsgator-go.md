@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The story of NewsGator Go!
 date: '2006-09-20 11:04:03 -0600'
-date_gmt: '2006-09-20 18:04:03 -0600'
 categories:
 - newsgator
 tags: []

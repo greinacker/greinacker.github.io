@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Here's a good idea
 date: '2003-06-15 16:49:28 -0600'
-date_gmt: '2003-06-15 23:49:28 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Email and Weblogs
 date: '2003-05-19 08:30:51 -0600'
-date_gmt: '2003-05-19 15:30:51 -0600'
 categories:
 - Uncategorized
 tags: []

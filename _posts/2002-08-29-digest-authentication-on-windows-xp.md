@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Digest Authentication on Windows XP
 date: '2002-08-29 09:06:29 -0600'
-date_gmt: '2002-08-29 16:06:29 -0600'
 categories:
 - Uncategorized
 tags: []

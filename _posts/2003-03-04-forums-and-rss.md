@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Forums and RSS
 date: '2003-03-04 11:06:31 -0700'
-date_gmt: '2003-03-04 18:06:31 -0700'
 categories:
 - Uncategorized
 tags: []

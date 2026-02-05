@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: What happened?
 date: '2003-05-05 17:48:07 -0600'
-date_gmt: '2003-05-06 00:48:07 -0600'
 categories:
 - Uncategorized
 tags: []

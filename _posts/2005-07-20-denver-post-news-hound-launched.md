@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Denver Post News Hound launched
 date: '2005-07-20 10:21:50 -0600'
-date_gmt: '2005-07-20 17:21:50 -0600'
 categories:
 - newsgator
 tags: []

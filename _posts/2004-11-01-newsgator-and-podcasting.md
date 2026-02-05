@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and Podcasting
 date: '2004-11-01 16:17:12 -0700'
-date_gmt: '2004-11-01 23:17:12 -0700'
 categories:
 - newsgator
 tags: []

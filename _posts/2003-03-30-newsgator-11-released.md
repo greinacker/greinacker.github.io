@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator 1.1 Released!
 date: '2003-03-30 22:37:52 -0700'
-date_gmt: '2003-03-31 05:37:52 -0700'
 categories:
 - newsgator
 tags: []

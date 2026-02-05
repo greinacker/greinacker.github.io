@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Authentication with .NET - HTTP Digest Sample
 date: '2002-07-09 08:52:41 -0600'
-date_gmt: '2002-07-09 15:52:41 -0600'
 categories:
 - Uncategorized
 tags: []

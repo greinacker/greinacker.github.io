@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS Ubiquity
 date: '2003-06-03 16:30:24 -0600'
-date_gmt: '2003-06-03 23:30:24 -0600'
 categories:
 - Uncategorized
 tags: []

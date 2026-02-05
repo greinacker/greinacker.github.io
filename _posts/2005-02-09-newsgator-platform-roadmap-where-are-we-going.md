@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator platform roadmap - where are we going?
 date: '2005-02-09 18:12:43 -0700'
-date_gmt: '2005-02-10 01:12:43 -0700'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Uncool Blogging Seminar...
 date: '2004-06-09 17:48:07 -0600'
-date_gmt: '2004-06-10 00:48:07 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Embedded code
 date: '2003-08-22 14:26:04 -0600'
-date_gmt: '2003-08-22 21:26:04 -0600'
 categories:
 - Uncategorized
 tags: []

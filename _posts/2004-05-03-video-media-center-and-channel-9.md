@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Video, Media Center, and Channel 9
 date: '2004-05-03 16:15:31 -0600'
-date_gmt: '2004-05-03 23:15:31 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator feed retrieval intervals
 date: '2008-02-14 12:44:21 -0700'
-date_gmt: '2008-02-14 19:44:21 -0700'
 categories:
 - newsgator
 tags: []

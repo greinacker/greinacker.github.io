@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Collaboration and TrackBack/Pingback
 date: '2002-12-31 08:54:52 -0700'
-date_gmt: '2002-12-31 15:54:52 -0700'
 categories:
 - Uncategorized
 tags: []

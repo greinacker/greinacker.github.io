@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New Challenges
 date: '2002-09-23 09:19:18 -0600'
-date_gmt: '2002-09-23 16:19:18 -0600'
 categories:
 - Uncategorized
 tags: []

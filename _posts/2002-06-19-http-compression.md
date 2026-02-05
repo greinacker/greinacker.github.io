@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: HTTP Compression
 date: '2002-06-19 22:05:31 -0600'
-date_gmt: '2002-06-20 05:05:31 -0600'
 categories:
 - Uncategorized
 tags: []

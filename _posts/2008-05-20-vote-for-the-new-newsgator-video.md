@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Vote for the new NewsGator video!
 date: '2008-05-20 07:54:09 -0600'
-date_gmt: '2008-05-20 14:54:09 -0600'
 categories:
 - newsgator
 tags: []

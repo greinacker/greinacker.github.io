@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server review
 date: '2005-11-30 11:42:02 -0700'
-date_gmt: '2005-11-30 18:42:02 -0700'
 categories:
 - newsgator
 tags: []

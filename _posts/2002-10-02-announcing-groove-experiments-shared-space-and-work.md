@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Announcing Groove Experiments shared space and work
 date: '2002-10-02 13:57:30 -0600'
-date_gmt: '2002-10-02 20:57:30 -0600'
 categories:
 - Uncategorized
 tags: []

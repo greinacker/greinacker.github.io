@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: A .Net blog tool, 'cause when you've got a hammer...
 date: '2002-07-02 10:31:20 -0600'
-date_gmt: '2002-07-02 17:31:20 -0600'
 categories:
 - Uncategorized
 tags: []

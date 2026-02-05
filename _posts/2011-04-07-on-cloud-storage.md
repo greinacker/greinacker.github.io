@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: On cloud storage
 date: '2011-04-07 13:26:38 -0600'
-date_gmt: '2011-04-07 19:26:38 -0600'
 categories:
 - internet
 tags:

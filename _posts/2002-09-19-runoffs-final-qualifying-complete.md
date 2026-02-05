@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Runoffs - Final Qualifying Complete
 date: '2002-09-19 17:46:20 -0600'
-date_gmt: '2002-09-20 00:46:20 -0600'
 categories:
 - Uncategorized
 tags: []

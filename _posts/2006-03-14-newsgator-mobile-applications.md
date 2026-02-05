@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator mobile applications
 date: '2006-03-14 18:46:10 -0700'
-date_gmt: '2006-03-15 01:46:10 -0700'
 categories:
 - newsgator
 tags: []

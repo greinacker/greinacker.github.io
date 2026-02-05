@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: On routers, Time Capsule, and Back to My Mac
 date: '2008-03-01 10:42:21 -0700'
-date_gmt: '2008-03-01 17:42:21 -0700'
 categories:
 - apple
 - internet

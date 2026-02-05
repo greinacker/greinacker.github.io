@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: No one is "forced" into piracy
 date: '2012-11-29 10:42:26 -0700'
-date_gmt: '2012-11-29 17:42:26 -0700'
 categories:
 - internet
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Organizing feeds
 date: '2003-02-07 13:15:27 -0700'
-date_gmt: '2003-02-07 20:15:27 -0700'
 categories:
 - Uncategorized
 tags: []

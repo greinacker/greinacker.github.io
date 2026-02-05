@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Chick-Fil-A Cow Stolen
 date: '2002-07-11 22:52:03 -0600'
-date_gmt: '2002-07-12 05:52:03 -0600'
 categories:
 - Uncategorized
 tags: []

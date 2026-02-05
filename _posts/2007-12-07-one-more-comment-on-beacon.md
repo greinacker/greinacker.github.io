@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: One more comment on Beacon
 date: '2007-12-07 11:21:07 -0700'
-date_gmt: '2007-12-07 18:21:07 -0700'
 categories:
 - Uncategorized
 tags: []

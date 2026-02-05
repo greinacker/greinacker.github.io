@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Valvoline Runoffs on TV
 date: '2002-11-21 09:22:08 -0700'
-date_gmt: '2002-11-21 16:22:08 -0700'
 categories:
 - Uncategorized
 tags: []

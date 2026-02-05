@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Related Content
 date: '2008-12-03 11:42:15 -0700'
-date_gmt: '2008-12-03 18:42:15 -0700'
 categories:
 - newsgator
 - internet

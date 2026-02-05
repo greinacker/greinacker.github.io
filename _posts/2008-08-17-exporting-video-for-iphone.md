@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Exporting video for iPhone
 date: '2008-08-17 14:06:08 -0600'
-date_gmt: '2008-08-17 20:06:08 -0600'
 categories:
 - iphone
 - video

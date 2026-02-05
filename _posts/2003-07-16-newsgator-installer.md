@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator installer
 date: '2003-07-16 14:42:10 -0600'
-date_gmt: '2003-07-16 21:42:10 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Organizing folders
 date: '2004-11-01 18:30:36 -0700'
-date_gmt: '2004-11-02 01:30:36 -0700'
 categories:
 - newsgator
 tags: []

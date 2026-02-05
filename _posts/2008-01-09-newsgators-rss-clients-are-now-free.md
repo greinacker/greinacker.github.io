@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator's RSS clients are now free!
 date: '2008-01-09 11:00:00 -0700'
-date_gmt: '2008-01-09 18:00:00 -0700'
 categories:
 - newsgator
 tags: []

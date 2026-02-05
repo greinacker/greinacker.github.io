@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Flickr - review
 date: '2005-11-22 17:26:49 -0700'
-date_gmt: '2005-11-23 00:26:49 -0700'
 categories:
 - photography
 tags: []

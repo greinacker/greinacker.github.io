@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Enterprise RSS and security
 date: '2008-12-17 14:02:38 -0700'
-date_gmt: '2008-12-17 21:02:38 -0700'
 categories:
 - newsgator
 tags:

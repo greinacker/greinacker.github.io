@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Fire in Colorado - yikes
 date: '2002-06-09 21:17:55 -0600'
-date_gmt: '2002-06-10 04:17:55 -0600'
 categories:
 - Uncategorized
 tags: []

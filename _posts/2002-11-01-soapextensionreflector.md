@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: SoapExtensionReflector
 date: '2002-11-01 09:35:32 -0700'
-date_gmt: '2002-11-01 16:35:32 -0700'
 categories:
 - Uncategorized
 tags: []

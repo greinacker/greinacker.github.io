@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Feed Validator has moved
 date: '2003-09-05 07:19:14 -0600'
-date_gmt: '2003-09-05 14:19:14 -0600'
 categories:
 - Uncategorized
 tags: []

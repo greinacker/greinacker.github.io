@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Cool demos at the Vista/Office launch
 date: '2007-01-16 11:02:10 -0700'
-date_gmt: '2007-01-16 18:02:10 -0700'
 categories:
 - Uncategorized
 tags: []

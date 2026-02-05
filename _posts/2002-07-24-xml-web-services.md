@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: XML Web Services
 date: '2002-07-24 08:48:31 -0600'
-date_gmt: '2002-07-24 15:48:31 -0600'
 categories:
 - Uncategorized
 tags: []

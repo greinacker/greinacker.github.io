@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: No more playing Tag
 date: '2002-06-28 12:42:39 -0600'
-date_gmt: '2002-06-28 19:42:39 -0600'
 categories:
 - Uncategorized
 tags: []

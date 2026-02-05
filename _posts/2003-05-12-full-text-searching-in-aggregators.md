@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Full text searching in aggregators
 date: '2003-05-12 16:11:12 -0600'
-date_gmt: '2003-05-12 23:11:12 -0600'
 categories:
 - Uncategorized
 tags: []

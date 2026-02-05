@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Mac Pro fortune cookies
 date: '2011-04-20 17:17:16 -0600'
-date_gmt: '2011-04-20 23:17:16 -0600'
 categories:
 - apple
 tags:

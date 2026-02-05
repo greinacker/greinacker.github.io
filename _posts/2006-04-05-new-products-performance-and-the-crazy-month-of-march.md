@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New products, performance, and the crazy month of March
 date: '2006-04-05 15:59:49 -0600'
-date_gmt: '2006-04-05 22:59:49 -0600'
 categories:
 - newsgator
 tags: []

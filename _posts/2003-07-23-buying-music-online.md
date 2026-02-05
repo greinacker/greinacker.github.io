@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Buying Music online
 date: '2003-07-23 08:16:01 -0600'
-date_gmt: '2003-07-23 15:16:01 -0600'
 categories:
 - Uncategorized
 tags: []

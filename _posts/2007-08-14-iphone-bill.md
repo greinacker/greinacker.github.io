@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: iPhone bill
 date: '2007-08-14 14:36:14 -0600'
-date_gmt: '2007-08-14 21:36:14 -0600'
 categories:
 - apple
 - iphone

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Collaboration and NewsGator
 date: '2003-01-16 10:41:51 -0700'
-date_gmt: '2003-01-16 17:41:51 -0700'
 categories:
 - newsgator
 tags: []

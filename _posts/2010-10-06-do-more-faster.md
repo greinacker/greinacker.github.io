@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Do More Faster
 date: '2010-10-06 07:24:18 -0600'
-date_gmt: '2010-10-06 14:24:18 -0600'
 categories:
 - newsgator
 tags:

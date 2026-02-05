@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Event Log Monitoring with RSS
 date: '2003-04-03 15:44:27 -0700'
-date_gmt: '2003-04-03 22:44:27 -0700'
 categories:
 - Uncategorized
 tags: []

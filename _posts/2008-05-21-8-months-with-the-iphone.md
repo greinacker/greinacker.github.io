@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 8 months with the iPhone
 date: '2008-05-21 12:00:00 -0600'
-date_gmt: '2008-05-21 18:00:00 -0600'
 categories:
 - apple
 - iphone

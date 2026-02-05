@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator POP Edition
 date: '2004-01-16 16:27:15 -0700'
-date_gmt: '2004-01-16 23:27:15 -0700'
 categories:
 - newsgator
 tags: []

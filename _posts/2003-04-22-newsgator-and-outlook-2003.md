@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and Outlook 2003
 date: '2003-04-22 12:32:44 -0600'
-date_gmt: '2003-04-22 19:32:44 -0600'
 categories:
 - newsgator
 tags: []

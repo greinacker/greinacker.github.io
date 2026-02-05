@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Trapped in the poker world
 date: '2005-06-10 12:14:49 -0600'
-date_gmt: '2005-06-10 19:14:49 -0600'
 categories:
 - Uncategorized
 tags: []

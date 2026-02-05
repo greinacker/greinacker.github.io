@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Authentication with .NET - Sample
 date: '2002-06-26 14:58:35 -0600'
-date_gmt: '2002-06-26 21:58:35 -0600'
 categories:
 - Uncategorized
 tags: []

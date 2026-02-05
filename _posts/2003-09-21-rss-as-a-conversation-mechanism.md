@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS as a conversation mechanism
 date: '2003-09-21 08:21:04 -0600'
-date_gmt: '2003-09-21 15:21:04 -0600'
 categories:
 - Uncategorized
 tags: []

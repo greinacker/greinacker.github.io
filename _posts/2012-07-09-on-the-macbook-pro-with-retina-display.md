@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: On the MacBook Pro with Retina display
 date: '2012-07-09 17:14:56 -0600'
-date_gmt: '2012-07-09 23:14:56 -0600'
 categories:
 - apple
 - development

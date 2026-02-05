@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Traffic threshold Mint extension on Github
 date: '2011-06-19 17:06:47 -0600'
-date_gmt: '2011-06-19 23:06:47 -0600'
 categories:
 - internet
 - development

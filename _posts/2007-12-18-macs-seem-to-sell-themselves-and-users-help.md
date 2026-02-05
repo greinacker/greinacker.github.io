@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Macs seem to sell themselves (and users help)
 date: '2007-12-18 18:08:17 -0700'
-date_gmt: '2007-12-19 01:08:17 -0700'
 categories:
 - apple
 tags: []

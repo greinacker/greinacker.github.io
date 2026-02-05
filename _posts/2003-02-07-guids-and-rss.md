@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: GUIDs and RSS
 date: '2003-02-07 12:37:45 -0700'
-date_gmt: '2003-02-07 19:37:45 -0700'
 categories:
 - Uncategorized
 tags: []

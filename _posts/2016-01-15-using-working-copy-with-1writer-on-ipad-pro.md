@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Using Working Copy with 1Writer on iPad Pro
 date: '2016-01-15 11:11:36 -0700'
-date_gmt: '2016-01-15 18:11:36 -0700'
 categories:
 - development
 tags:

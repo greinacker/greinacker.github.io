@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Continental Divide
 date: '2003-07-29 13:56:33 -0600'
-date_gmt: '2003-07-29 20:56:33 -0600'
 categories:
 - Uncategorized
 tags: []

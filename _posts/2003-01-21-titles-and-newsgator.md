@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Titles and NewsGator
 date: '2003-01-21 15:29:29 -0700'
-date_gmt: '2003-01-21 22:29:29 -0700'
 categories:
 - newsgator
 tags: []

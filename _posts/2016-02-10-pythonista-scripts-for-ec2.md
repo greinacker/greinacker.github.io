@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Pythonista scripts for EC2
 date: '2016-02-10 09:50:14 -0700'
-date_gmt: '2016-02-10 16:50:14 -0700'
 categories:
 - development
 tags:

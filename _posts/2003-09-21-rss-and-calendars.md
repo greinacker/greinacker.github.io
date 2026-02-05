@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS and Calendars
 date: '2003-09-21 17:48:25 -0600'
-date_gmt: '2003-09-22 00:48:25 -0600'
 categories:
 - Uncategorized
 tags: []

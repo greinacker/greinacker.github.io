@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Try the NewsGator Online Beta!
 date: '2007-03-19 16:51:38 -0600'
-date_gmt: '2007-03-19 23:51:38 -0600'
 categories:
 - newsgator
 tags: []

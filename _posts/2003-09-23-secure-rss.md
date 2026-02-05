@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Secure RSS
 date: '2003-09-23 08:38:44 -0600'
-date_gmt: '2003-09-23 15:38:44 -0600'
 categories:
 - Uncategorized
 tags: []

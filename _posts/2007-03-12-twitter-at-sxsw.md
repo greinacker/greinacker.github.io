@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Twitter at SXSW
 date: '2007-03-12 09:32:12 -0600'
-date_gmt: '2007-03-12 16:32:12 -0600'
 categories:
 - Uncategorized
 tags: []

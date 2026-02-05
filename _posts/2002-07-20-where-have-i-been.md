@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Where have I been?
 date: '2002-07-20 12:35:12 -0600'
-date_gmt: '2002-07-20 19:35:12 -0600'
 categories:
 - Uncategorized
 tags: []

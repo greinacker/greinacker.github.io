@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Letterpress
 date: '2012-10-24 16:25:45 -0600'
-date_gmt: '2012-10-24 22:25:45 -0600'
 categories:
 - apps
 tags: []

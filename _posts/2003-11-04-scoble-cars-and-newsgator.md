@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Scoble, cars, and NewsGator
 date: '2003-11-04 10:25:48 -0700'
-date_gmt: '2003-11-04 17:25:48 -0700'
 categories:
 - newsgator
 tags: []

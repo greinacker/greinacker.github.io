@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Latest at NewsGator
 date: '2005-01-10 19:04:31 -0700'
-date_gmt: '2005-01-11 02:04:31 -0700'
 categories:
 - newsgator
 tags: []

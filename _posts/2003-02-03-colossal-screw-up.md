@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Colossal Screw-up
 date: '2003-02-03 22:52:22 -0700'
-date_gmt: '2003-02-04 05:52:22 -0700'
 categories:
 - newsgator
 tags: []

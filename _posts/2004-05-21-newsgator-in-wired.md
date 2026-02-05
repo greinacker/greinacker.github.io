@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator in Wired
 date: '2004-05-21 10:52:09 -0600'
-date_gmt: '2004-05-21 17:52:09 -0600'
 categories:
 - newsgator
 tags: []

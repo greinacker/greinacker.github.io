@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services DevCon
 date: '2002-09-28 10:47:50 -0600'
-date_gmt: '2002-09-28 17:47:50 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS and short descriptions
 date: '2003-02-25 17:10:08 -0700'
-date_gmt: '2003-02-26 00:10:08 -0700'
 categories:
 - Uncategorized
 tags: []

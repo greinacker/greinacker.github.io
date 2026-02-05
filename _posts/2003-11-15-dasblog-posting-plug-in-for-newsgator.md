@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: dasBlog posting plug-in for NewsGator
 date: '2003-11-15 17:33:46 -0700'
-date_gmt: '2003-11-16 00:33:46 -0700'
 categories:
 - newsgator
 tags: []

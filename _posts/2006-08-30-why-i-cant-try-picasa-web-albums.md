@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Why I can't try Picasa Web Albums
 date: '2006-08-30 17:08:24 -0600'
-date_gmt: '2006-08-31 00:08:24 -0600'
 categories:
 - photography
 tags: []

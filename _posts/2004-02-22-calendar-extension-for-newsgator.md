@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Calendar extension for NewsGator
 date: '2004-02-22 14:39:49 -0700'
-date_gmt: '2004-02-22 21:39:49 -0700'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Technologies is hiring
 date: '2004-07-02 10:05:40 -0600'
-date_gmt: '2004-07-02 17:05:40 -0600'
 categories:
 - newsgator
 tags: []

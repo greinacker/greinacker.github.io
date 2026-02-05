@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator ad again
 date: '2003-09-09 06:14:00 -0600'
-date_gmt: '2003-09-09 13:14:00 -0600'
 categories:
 - newsgator
 tags: []

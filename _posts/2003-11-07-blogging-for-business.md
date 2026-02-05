@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Blogging for Business
 date: '2003-11-07 09:34:40 -0700'
-date_gmt: '2003-11-07 16:34:40 -0700'
 categories:
 - Uncategorized
 tags: []

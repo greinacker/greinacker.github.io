@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services security and XML Pixie Dust
 date: '2002-07-02 10:16:56 -0600'
-date_gmt: '2002-07-02 17:16:56 -0600'
 categories:
 - Uncategorized
 tags: []

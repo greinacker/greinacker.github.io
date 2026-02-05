@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: iPhone and Exchange - push and DNS
 date: '2008-07-18 13:55:01 -0600'
-date_gmt: '2008-07-18 19:55:01 -0600'
 categories:
 - apple
 - internet

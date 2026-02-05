@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The first CD
 date: '2005-10-03 17:32:07 -0600'
-date_gmt: '2005-10-04 00:32:07 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: TopStyle acquired
 date: '2008-12-09 11:48:54 -0700'
-date_gmt: '2008-12-09 18:48:54 -0700'
 categories:
 - newsgator
 tags:

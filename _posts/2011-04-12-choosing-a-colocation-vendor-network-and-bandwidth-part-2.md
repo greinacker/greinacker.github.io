@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Choosing a colocation vendor - network and bandwidth (part 2)
 date: '2011-04-12 10:07:44 -0600'
-date_gmt: '2011-04-12 16:07:44 -0600'
 categories:
 - internet
 - startups

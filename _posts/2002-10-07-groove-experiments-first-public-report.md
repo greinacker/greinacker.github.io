@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Groove Experiments - First Public Report
 date: '2002-10-07 22:01:35 -0600'
-date_gmt: '2002-10-08 05:01:35 -0600'
 categories:
 - Uncategorized
 tags: []

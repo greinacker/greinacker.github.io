@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Debugging with HTTP Authentication Modules
 date: '2002-10-20 18:37:34 -0600'
-date_gmt: '2002-10-21 01:37:34 -0600'
 categories:
 - Uncategorized
 tags: []

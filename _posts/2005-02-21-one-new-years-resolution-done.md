@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: One new years resolution done!
 date: '2005-02-21 20:49:51 -0700'
-date_gmt: '2005-02-22 03:49:51 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Relative links in RSS and Atom
 date: '2003-07-27 19:54:05 -0600'
-date_gmt: '2003-07-28 02:54:05 -0600'
 categories:
 - Uncategorized
 tags: []

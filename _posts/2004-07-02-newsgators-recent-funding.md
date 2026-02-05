@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator's recent funding
 date: '2004-07-02 09:51:10 -0600'
-date_gmt: '2004-07-02 16:51:10 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Australian scientists claim teleporting success
 date: '2002-06-17 22:59:19 -0600'
-date_gmt: '2002-06-18 05:59:19 -0600'
 categories:
 - Uncategorized
 tags: []

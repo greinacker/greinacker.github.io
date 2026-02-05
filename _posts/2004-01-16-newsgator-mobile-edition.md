@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Mobile Edition
 date: '2004-01-16 16:51:37 -0700'
-date_gmt: '2004-01-16 23:51:37 -0700'
 categories:
 - newsgator
 tags: []

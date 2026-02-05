@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: This weekend at Pueblo Motorsports Park
 date: '2003-07-19 19:45:36 -0600'
-date_gmt: '2003-07-20 02:45:36 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Windows 2003 Server default settings
 date: '2003-09-12 15:25:03 -0600'
-date_gmt: '2003-09-12 22:25:03 -0600'
 categories:
 - Uncategorized
 tags: []

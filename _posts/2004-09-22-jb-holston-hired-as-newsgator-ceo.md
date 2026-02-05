@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: J.B. Holston hired as NewsGator CEO
 date: '2004-09-22 21:35:14 -0600'
-date_gmt: '2004-09-23 04:35:14 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator REST API
 date: '2006-04-05 14:20:22 -0600'
-date_gmt: '2006-04-05 21:20:22 -0600'
 categories:
 - newsgator
 tags: []

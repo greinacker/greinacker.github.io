@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: TrackBack test post
 date: '2003-01-01 14:05:35 -0700'
-date_gmt: '2003-01-01 21:05:35 -0700'
 categories:
 - Uncategorized
 tags: []

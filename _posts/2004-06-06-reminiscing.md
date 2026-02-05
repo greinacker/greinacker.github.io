@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Reminiscing
 date: '2004-06-06 18:06:17 -0600'
-date_gmt: '2004-06-07 01:06:17 -0600'
 categories:
 - Uncategorized
 tags: []

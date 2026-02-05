@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: What to race?
 date: '2003-06-04 18:53:33 -0600'
-date_gmt: '2003-06-05 01:53:33 -0600'
 categories:
 - Uncategorized
 tags: []

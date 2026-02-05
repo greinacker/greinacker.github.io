@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: See you at DEMO!
 date: '2006-02-03 18:03:43 -0700'
-date_gmt: '2006-02-04 01:03:43 -0700'
 categories:
 - Uncategorized
 tags: []

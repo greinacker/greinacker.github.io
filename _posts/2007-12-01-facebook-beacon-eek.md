@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Facebook Beacon - eek
 date: '2007-12-01 16:42:16 -0700'
-date_gmt: '2007-12-01 23:42:16 -0700'
 categories:
 - Uncategorized
 tags: []

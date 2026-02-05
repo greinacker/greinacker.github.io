@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator in French!
 date: '2005-04-07 18:29:48 -0600'
-date_gmt: '2005-04-08 01:29:48 -0600'
 categories:
 - newsgator
 tags: []

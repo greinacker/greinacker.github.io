@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator HTTP report card
 date: '2003-07-23 16:35:35 -0600'
-date_gmt: '2003-07-23 23:35:35 -0600'
 categories:
 - newsgator
 tags: []

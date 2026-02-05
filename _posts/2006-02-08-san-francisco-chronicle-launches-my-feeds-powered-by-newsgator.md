@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: San Francisco Chronicle launches My Feeds, powered by NewsGator
 date: '2006-02-08 09:34:08 -0700'
-date_gmt: '2006-02-08 16:34:08 -0700'
 categories:
 - newsgator
 tags: []

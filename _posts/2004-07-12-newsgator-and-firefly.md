@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and Firefly
 date: '2004-07-12 11:48:37 -0600'
-date_gmt: '2004-07-12 18:48:37 -0600'
 categories:
 - newsgator
 tags: []

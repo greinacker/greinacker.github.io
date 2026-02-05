@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Apple's laptop design
 date: '2004-04-02 11:36:06 -0700'
-date_gmt: '2004-04-02 18:36:06 -0700'
 categories:
 - apple
 tags: []

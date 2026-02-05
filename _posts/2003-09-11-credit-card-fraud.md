@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Credit card fraud
 date: '2003-09-11 09:53:19 -0600'
-date_gmt: '2003-09-11 16:53:19 -0600'
 categories:
 - Uncategorized
 tags: []

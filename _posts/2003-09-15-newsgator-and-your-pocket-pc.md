@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and your Pocket PC
 date: '2003-09-15 18:53:38 -0600'
-date_gmt: '2003-09-16 01:53:38 -0600'
 categories:
 - newsgator
 tags: []

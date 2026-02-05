@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Security
 date: '2002-06-09 22:03:23 -0600'
-date_gmt: '2002-06-10 05:03:23 -0600'
 categories:
 - Uncategorized
 tags: []

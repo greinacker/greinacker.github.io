@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Building Cool Stuff
 date: '2004-02-29 18:24:15 -0700'
-date_gmt: '2004-03-01 01:24:15 -0700'
 categories:
 - Uncategorized
 tags: []

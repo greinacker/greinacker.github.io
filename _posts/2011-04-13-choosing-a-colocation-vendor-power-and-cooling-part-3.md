@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Choosing a colocation vendor - power and cooling (part 3)
 date: '2011-04-13 10:05:35 -0600'
-date_gmt: '2011-04-13 16:05:35 -0600'
 categories:
 - internet
 - startups

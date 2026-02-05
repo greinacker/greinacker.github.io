@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NetNewsWire for iPhone now available!
 date: '2008-07-10 10:05:00 -0600'
-date_gmt: '2008-07-10 16:05:00 -0600'
 categories:
 - newsgator
 - iphone

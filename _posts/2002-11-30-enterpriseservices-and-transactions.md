@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: EnterpriseServices and transactions
 date: '2002-11-30 18:34:19 -0700'
-date_gmt: '2002-12-01 01:34:19 -0700'
 categories:
 - Uncategorized
 tags: []

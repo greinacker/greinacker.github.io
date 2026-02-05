@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Write cool code, win a laptop!
 date: '2005-09-13 08:35:55 -0600'
-date_gmt: '2005-09-13 15:35:55 -0600'
 categories:
 - newsgator
 tags: []

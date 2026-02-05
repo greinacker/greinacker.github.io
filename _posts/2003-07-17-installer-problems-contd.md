@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Installer problems, cont'd
 date: '2003-07-17 12:45:19 -0600'
-date_gmt: '2003-07-17 19:45:19 -0600'
 categories:
 - Uncategorized
 tags: []

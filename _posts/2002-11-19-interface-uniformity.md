@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Interface Uniformity
 date: '2002-11-19 18:07:13 -0700'
-date_gmt: '2002-11-20 01:07:13 -0700'
 categories:
 - Uncategorized
 tags: []

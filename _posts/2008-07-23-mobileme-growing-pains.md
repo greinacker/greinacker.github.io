@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: MobileMe growing pains
 date: '2008-07-23 11:21:28 -0600'
-date_gmt: '2008-07-23 17:21:28 -0600'
 categories:
 - apple
 tags: []

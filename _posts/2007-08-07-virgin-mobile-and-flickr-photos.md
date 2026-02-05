@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Virgin Mobile and Flickr photos
 date: '2007-08-07 21:25:04 -0600'
-date_gmt: '2007-08-08 04:25:04 -0600'
 categories:
 - photography
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Beta, beta, everywhere!
 date: '2006-01-31 18:32:14 -0700'
-date_gmt: '2006-02-01 01:32:14 -0700'
 categories:
 - newsgator
 tags: []

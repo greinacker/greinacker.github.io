@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Marketing by RSS
 date: '2003-08-19 18:09:01 -0600'
-date_gmt: '2003-08-20 01:09:01 -0600'
 categories:
 - Uncategorized
 tags: []

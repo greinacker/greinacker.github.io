@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and Gmail
 date: '2004-06-22 10:32:44 -0600'
-date_gmt: '2004-06-22 17:32:44 -0600'
 categories:
 - newsgator
 tags: []

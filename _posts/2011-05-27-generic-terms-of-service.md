@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Generic terms of service
 date: '2011-05-27 16:52:41 -0600'
-date_gmt: '2011-05-27 22:52:41 -0600'
 categories:
 - photography
 - internet

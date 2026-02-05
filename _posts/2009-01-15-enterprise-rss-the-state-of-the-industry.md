@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Enterprise RSS - the State of the Industry
 date: '2009-01-15 10:07:43 -0700'
-date_gmt: '2009-01-15 17:07:43 -0700'
 categories:
 - newsgator
 - internet

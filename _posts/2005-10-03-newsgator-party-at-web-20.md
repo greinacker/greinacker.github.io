@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator party at Web 2.0
 date: '2005-10-03 10:51:04 -0600'
-date_gmt: '2005-10-03 17:51:04 -0600'
 categories:
 - newsgator
 tags: []

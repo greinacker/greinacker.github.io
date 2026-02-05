@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Bloggers and News
 date: '2004-02-06 09:08:23 -0700'
-date_gmt: '2004-02-06 16:08:23 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Office 2.0 is not about online spreadsheets!
 date: '2006-10-11 16:00:31 -0600'
-date_gmt: '2006-10-11 23:00:31 -0600'
 categories:
 - Uncategorized
 tags: []

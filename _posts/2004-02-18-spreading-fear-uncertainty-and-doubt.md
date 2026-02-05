@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Spreading Fear, Uncertainty, and Doubt
 date: '2004-02-18 17:50:54 -0700'
-date_gmt: '2004-02-19 00:50:54 -0700'
 categories:
 - newsgator
 tags: []

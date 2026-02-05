@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Blatant Plagiarism
 date: '2003-09-30 16:46:54 -0600'
-date_gmt: '2003-09-30 23:46:54 -0600'
 categories:
 - Uncategorized
 tags: []

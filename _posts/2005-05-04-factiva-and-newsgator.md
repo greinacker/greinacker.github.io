@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Factiva and NewsGator
 date: '2005-05-04 11:19:59 -0600'
-date_gmt: '2005-05-04 18:19:59 -0600'
 categories:
 - newsgator
 tags: []

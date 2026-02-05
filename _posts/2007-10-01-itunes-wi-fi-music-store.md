@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: iTunes Wi-fi Music Store
 date: '2007-10-01 11:17:56 -0600'
-date_gmt: '2007-10-01 18:17:56 -0600'
 categories:
 - apple
 - iphone

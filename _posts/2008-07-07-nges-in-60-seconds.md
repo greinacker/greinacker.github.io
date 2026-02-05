@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NGES in 60 seconds
 date: 2008-07-07 10:36:44 -0600
-date_gmt: 2008-07-07 16:36:44 -0600
 categories:
   - newsgator
 tags: []

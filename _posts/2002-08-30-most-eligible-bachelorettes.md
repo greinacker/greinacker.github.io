@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Most Eligible Bachelorettes
 date: '2002-08-30 15:28:51 -0600'
-date_gmt: '2002-08-30 22:28:51 -0600'
 categories:
 - Uncategorized
 tags: []

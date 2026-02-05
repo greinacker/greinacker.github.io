@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New and Improved
 date: '2005-03-31 18:52:37 -0700'
-date_gmt: '2005-04-01 01:52:37 -0700'
 categories:
 - Uncategorized
 tags: []

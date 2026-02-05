@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator closes new $12M financing
 date: '2007-12-13 09:00:00 -0700'
-date_gmt: '2007-12-13 16:00:00 -0700'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: WS-Security
 date: '2002-06-11 08:19:00 -0600'
-date_gmt: '2002-06-11 15:19:00 -0600'
 categories:
 - Uncategorized
 tags: []

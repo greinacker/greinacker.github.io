@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Inbox - new name, new release!
 date: '2006-03-21 14:42:31 -0700'
-date_gmt: '2006-03-21 21:42:31 -0700'
 categories:
 - newsgator
 tags: []

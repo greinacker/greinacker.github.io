@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS enclosures
 date: '2003-09-25 10:03:45 -0600'
-date_gmt: '2003-09-25 17:03:45 -0600'
 categories:
 - Uncategorized
 tags: []

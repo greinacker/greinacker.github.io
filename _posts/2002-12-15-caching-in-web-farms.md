@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Caching in Web Farms
 date: '2002-12-15 10:40:16 -0700'
-date_gmt: '2002-12-15 17:40:16 -0700'
 categories:
 - Uncategorized
 tags: []

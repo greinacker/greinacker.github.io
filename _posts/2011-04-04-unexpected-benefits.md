@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Unexpected Benefits
 date: '2011-04-04 10:38:21 -0600'
-date_gmt: '2011-04-04 16:38:21 -0600'
 categories:
 - startups
 tags:

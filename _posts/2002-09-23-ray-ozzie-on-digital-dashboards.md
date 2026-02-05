@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Ray Ozzie on Digital Dashboards
 date: '2002-09-23 14:49:24 -0600'
-date_gmt: '2002-09-23 21:49:24 -0600'
 categories:
 - Uncategorized
 tags: []

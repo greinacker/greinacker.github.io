@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS extensions
 date: '2004-01-23 10:14:10 -0700'
-date_gmt: '2004-01-23 17:14:10 -0700'
 categories:
 - Uncategorized
 tags: []

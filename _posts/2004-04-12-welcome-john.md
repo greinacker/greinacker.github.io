@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Welcome, John
 date: '2004-04-12 16:37:55 -0600'
-date_gmt: '2004-04-12 23:37:55 -0600'
 categories:
 - newsgator
 tags: []

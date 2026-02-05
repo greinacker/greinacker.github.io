@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Best of the Best
 date: '2004-11-29 22:24:26 -0700'
-date_gmt: '2004-11-30 05:24:26 -0700'
 categories:
 - Uncategorized
 tags: []

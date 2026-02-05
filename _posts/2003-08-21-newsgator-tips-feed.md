@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator tips feed
 date: '2003-08-21 10:44:10 -0600'
-date_gmt: '2003-08-21 17:44:10 -0600'
 categories:
 - newsgator
 tags: []

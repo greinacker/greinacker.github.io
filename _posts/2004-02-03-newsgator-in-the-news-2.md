@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator in the News
 date: '2004-02-03 15:33:12 -0700'
-date_gmt: '2004-02-03 22:33:12 -0700'
 categories:
 - newsgator
 tags: []

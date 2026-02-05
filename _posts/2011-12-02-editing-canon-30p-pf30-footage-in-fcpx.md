@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Editing Canon 30p "PF30" footage in FCPX
 date: '2011-12-02 10:54:33 -0700'
-date_gmt: '2011-12-02 17:54:33 -0700'
 categories:
 - video
 tags:

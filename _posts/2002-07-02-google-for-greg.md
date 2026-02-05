@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Google for 'Greg'
 date: '2002-07-02 17:58:08 -0600'
-date_gmt: '2002-07-03 00:58:08 -0600'
 categories:
 - Uncategorized
 tags: []

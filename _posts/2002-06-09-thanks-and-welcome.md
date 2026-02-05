@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Thanks and Welcome!
 date: '2002-06-09 21:10:18 -0600'
-date_gmt: '2002-06-10 04:10:18 -0600'
 categories:
 - Uncategorized
 tags: []

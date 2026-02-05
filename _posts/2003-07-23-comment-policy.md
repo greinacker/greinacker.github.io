@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Comment Policy
 date: '2003-07-23 13:22:21 -0600'
-date_gmt: '2003-07-23 20:22:21 -0600'
 categories:
 - Uncategorized
 tags: []

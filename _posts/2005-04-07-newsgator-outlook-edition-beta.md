@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Outlook edition beta
 date: '2005-04-07 18:41:39 -0600'
-date_gmt: '2005-04-08 01:41:39 -0600'
 categories:
 - newsgator
 tags: []

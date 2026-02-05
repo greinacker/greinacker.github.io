@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: The RSS Soundbite
 date: '2003-06-06 15:52:30 -0600'
-date_gmt: '2003-06-06 22:52:30 -0600'
 categories:
 - Uncategorized
 tags: []

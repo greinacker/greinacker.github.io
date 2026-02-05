@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Another step in building a company
 date: '2004-11-03 17:26:41 -0700'
-date_gmt: '2004-11-04 00:26:41 -0700'
 categories:
 - newsgator
 tags: []

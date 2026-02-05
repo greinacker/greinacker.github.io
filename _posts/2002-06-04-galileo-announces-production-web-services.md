@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Galileo announces production web services
 date: '2002-06-04 08:33:38 -0600'
-date_gmt: '2002-06-04 15:33:38 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator acquires FeedDemon
 date: '2005-05-17 05:50:31 -0600'
-date_gmt: '2005-05-17 12:50:31 -0600'
 categories:
 - newsgator
 tags: []

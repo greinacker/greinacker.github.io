@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Instant Messaging during meetings
 date: '2002-12-30 10:31:44 -0700'
-date_gmt: '2002-12-30 17:31:44 -0700'
 categories:
 - Uncategorized
 tags: []

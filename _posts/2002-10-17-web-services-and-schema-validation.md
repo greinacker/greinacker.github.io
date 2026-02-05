@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services and Schema Validation
 date: '2002-10-17 22:57:33 -0600'
-date_gmt: '2002-10-18 05:57:33 -0600'
 categories:
 - Uncategorized
 tags: []

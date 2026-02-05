@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Weblog posting interface
 date: '2003-04-28 18:58:51 -0600'
-date_gmt: '2003-04-29 01:58:51 -0600'
 categories:
 - Uncategorized
 tags: []

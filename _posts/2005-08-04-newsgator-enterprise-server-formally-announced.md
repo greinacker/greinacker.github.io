@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server formally announced!
 date: '2005-08-04 16:40:41 -0600'
-date_gmt: '2005-08-04 23:40:41 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Interview
 date: '2004-06-08 13:51:29 -0600'
-date_gmt: '2004-06-08 20:51:29 -0600'
 categories:
 - Uncategorized
 tags: []

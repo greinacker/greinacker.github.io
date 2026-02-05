@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Traffic threshold pepper extension for Mint stats
 date: '2011-04-26 10:10:37 -0600'
-date_gmt: '2011-04-26 16:10:37 -0600'
 categories:
 - internet
 tags:

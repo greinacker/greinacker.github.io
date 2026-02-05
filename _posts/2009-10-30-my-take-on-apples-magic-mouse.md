@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: My take on Apple's Magic Mouse
 date: '2009-10-30 15:40:32 -0600'
-date_gmt: '2009-10-30 22:40:32 -0600'
 categories:
 - apple
 tags:

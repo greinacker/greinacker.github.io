@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Adobe Camera Raw and Nikon D200
 date: '2006-01-19 15:46:29 -0700'
-date_gmt: '2006-01-19 22:46:29 -0700'
 categories:
 - photography
 tags: []

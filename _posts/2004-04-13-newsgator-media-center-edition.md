@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Media Center Edition
 date: '2004-04-13 09:22:24 -0600'
-date_gmt: '2004-04-13 16:22:24 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: I've seen the future...
 date: '2008-02-08 13:21:51 -0700'
-date_gmt: '2008-02-08 20:21:51 -0700'
 categories:
 - internet
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: No-index flag for feeds
 date: '2005-12-14 07:04:22 -0700'
-date_gmt: '2005-12-14 14:04:22 -0700'
 categories:
 - newsgator
 tags: []

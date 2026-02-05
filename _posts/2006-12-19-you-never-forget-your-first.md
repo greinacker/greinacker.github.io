@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: You never forget your first...
 date: '2006-12-19 14:14:52 -0700'
-date_gmt: '2006-12-19 21:14:52 -0700'
 categories:
 - newsgator
 tags: []

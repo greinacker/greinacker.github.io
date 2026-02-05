@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator acquires NetNewsWire
 date: '2005-10-04 14:27:16 -0600'
-date_gmt: '2005-10-04 21:27:16 -0600'
 categories:
 - newsgator
 tags: []

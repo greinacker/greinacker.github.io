@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Formatting and Styles in NewsGator
 date: '2003-08-11 17:27:53 -0600'
-date_gmt: '2003-08-12 00:27:53 -0600'
 categories:
 - newsgator
 tags: []

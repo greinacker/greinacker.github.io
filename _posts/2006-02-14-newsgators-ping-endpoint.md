@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator's ping endpoint
 date: '2006-02-14 15:33:45 -0700'
-date_gmt: '2006-02-14 22:33:45 -0700'
 categories:
 - newsgator
 tags: []

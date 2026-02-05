@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Business on the Golf Course
 date: '2004-03-01 17:38:24 -0700'
-date_gmt: '2004-03-02 00:38:24 -0700'
 categories:
 - Uncategorized
 tags: []

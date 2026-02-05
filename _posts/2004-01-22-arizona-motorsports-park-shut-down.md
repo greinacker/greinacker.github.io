@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Arizona Motorsports Park shut down
 date: '2004-01-22 19:20:00 -0700'
-date_gmt: '2004-01-23 02:20:00 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS and SourceSafe
 date: '2004-11-22 11:38:30 -0700'
-date_gmt: '2004-11-22 18:38:30 -0700'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Amy Davis - American Idol
 date: 2008-02-19 14:49:35 -0700
-date_gmt: 2008-02-19 21:49:35 -0700
 categories:
   - photography
 tags: []

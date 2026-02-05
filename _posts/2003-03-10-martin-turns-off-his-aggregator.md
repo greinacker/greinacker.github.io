@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Martin turns off his aggregator
 date: '2003-03-10 22:41:48 -0700'
-date_gmt: '2003-03-11 05:41:48 -0700'
 categories:
 - Uncategorized
 tags: []

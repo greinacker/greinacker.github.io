@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Comments RSS feed
 date: '2002-12-30 19:50:18 -0700'
-date_gmt: '2002-12-31 02:50:18 -0700'
 categories:
 - Uncategorized
 tags: []

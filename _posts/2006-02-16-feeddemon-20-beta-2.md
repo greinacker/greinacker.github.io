@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: FeedDemon 2.0 beta 2
 date: '2006-02-16 10:40:00 -0700'
-date_gmt: '2006-02-16 17:40:00 -0700'
 categories:
 - newsgator
 tags: []

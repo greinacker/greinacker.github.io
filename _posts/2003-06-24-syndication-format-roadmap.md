@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Syndication Format Roadmap
 date: '2003-06-24 10:34:11 -0600'
-date_gmt: '2003-06-24 17:34:11 -0600'
 categories:
 - Uncategorized
 tags: []

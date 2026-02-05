@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: ExtremeTech Aggregator Review
 date: '2003-08-25 09:13:12 -0600'
-date_gmt: '2003-08-25 16:13:12 -0600'
 categories:
 - newsgator
 tags: []

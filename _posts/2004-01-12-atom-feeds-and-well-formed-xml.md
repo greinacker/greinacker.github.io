@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Atom feeds and well-formed XML
 date: '2004-01-12 22:47:44 -0700'
-date_gmt: '2004-01-13 05:47:44 -0700'
 categories:
 - Uncategorized
 tags: []

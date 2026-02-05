@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Office 2003 now available
 date: '2003-09-15 16:11:56 -0600'
-date_gmt: '2003-09-15 23:11:56 -0600'
 categories:
 - Uncategorized
 tags: []

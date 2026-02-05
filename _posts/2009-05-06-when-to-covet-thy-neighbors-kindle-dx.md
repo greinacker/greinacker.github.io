@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: When to covet thy neighbor's Kindle DX
 date: '2009-05-06 15:24:22 -0600'
-date_gmt: '2009-05-06 22:24:22 -0600'
 categories:
 - kindle
 tags:

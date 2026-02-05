@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Supernova
 date: '2004-06-21 17:55:54 -0600'
-date_gmt: '2004-06-22 00:55:54 -0600'
 categories:
 - Uncategorized
 tags: []

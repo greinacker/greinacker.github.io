@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Why subscription software?
 date: '2005-07-05 17:46:43 -0600'
-date_gmt: '2005-07-06 00:46:43 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RIAA lawsuits
 date: '2003-09-10 10:00:56 -0600'
-date_gmt: '2003-09-10 17:00:56 -0600'
 categories:
 - Uncategorized
 tags: []

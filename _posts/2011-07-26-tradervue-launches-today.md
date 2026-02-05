@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Tradervue launches today!
 date: '2011-07-26 10:51:00 -0600'
-date_gmt: '2011-07-26 16:51:00 -0600'
 categories:
 - internet
 - trading

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Is WSDL too hard? Cont'd.
 date: '2002-11-20 11:52:34 -0700'
-date_gmt: '2002-11-20 18:52:34 -0700'
 categories:
 - Uncategorized
 tags: []

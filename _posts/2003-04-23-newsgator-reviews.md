@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator reviews
 date: '2003-04-23 17:47:54 -0600'
-date_gmt: '2003-04-24 00:47:54 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: BusinessWeek - Best of the Web
 date: '2005-08-25 11:25:34 -0600'
-date_gmt: '2005-08-25 18:25:34 -0600'
 categories:
 - Uncategorized
 tags: []

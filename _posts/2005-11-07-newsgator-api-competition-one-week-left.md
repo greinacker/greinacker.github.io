@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator API competition - one week left!
 date: '2005-11-07 10:00:33 -0700'
-date_gmt: '2005-11-07 17:00:33 -0700'
 categories:
 - newsgator
 tags: []

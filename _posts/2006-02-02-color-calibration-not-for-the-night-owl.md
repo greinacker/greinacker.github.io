@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Color calibration - not for the night owl
 date: '2006-02-02 19:00:46 -0700'
-date_gmt: '2006-02-03 02:00:46 -0700'
 categories:
 - photography
 tags: []

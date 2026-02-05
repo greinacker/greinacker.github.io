@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Aggregators that automatically download web pages
 date: '2003-12-12 08:55:47 -0700'
-date_gmt: '2003-12-12 15:55:47 -0700'
 categories:
 - newsgator
 tags: []

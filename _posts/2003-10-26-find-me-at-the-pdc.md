@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Find me at the PDC!
 date: '2003-10-26 09:11:45 -0700'
-date_gmt: '2003-10-26 16:11:45 -0700'
 categories:
 - Uncategorized
 tags: []

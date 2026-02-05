@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Don on the Amazon outage
 date: '2011-04-25 09:10:14 -0600'
-date_gmt: '2011-04-25 15:10:14 -0600'
 categories:
 - internet
 tags:

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Performance
 date: '2002-06-17 21:34:12 -0600'
-date_gmt: '2002-06-18 04:34:12 -0600'
 categories:
 - Uncategorized
 tags: []

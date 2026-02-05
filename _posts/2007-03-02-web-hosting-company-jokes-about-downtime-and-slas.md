@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web hosting company jokes about downtime and SLA's
 date: '2007-03-02 10:37:57 -0700'
-date_gmt: '2007-03-02 17:37:57 -0700'
 categories:
 - Uncategorized
 tags: []

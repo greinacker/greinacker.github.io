@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Transaction Management with EnterpriseServices
 date: '2002-12-01 11:41:08 -0700'
-date_gmt: '2002-12-01 18:41:08 -0700'
 categories:
 - Uncategorized
 tags: []

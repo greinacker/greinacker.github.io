@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Evolution of NewsGator Online
 date: '2006-10-24 10:00:09 -0600'
-date_gmt: '2006-10-24 17:00:09 -0600'
 categories:
 - newsgator
 tags: []

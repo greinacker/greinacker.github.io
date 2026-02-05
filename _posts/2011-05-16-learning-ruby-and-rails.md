@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Learning Ruby and Rails
 date: '2011-05-16 14:21:34 -0600'
-date_gmt: '2011-05-16 20:21:34 -0600'
 categories:
 - development
 tags:

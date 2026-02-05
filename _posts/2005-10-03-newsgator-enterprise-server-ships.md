@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Enterprise Server ships!
 date: '2005-10-03 10:20:15 -0600'
-date_gmt: '2005-10-03 17:20:15 -0600'
 categories:
 - newsgator
 tags: []

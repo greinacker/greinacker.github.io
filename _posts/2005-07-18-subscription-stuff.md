@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Subscription stuff
 date: '2005-07-18 19:54:40 -0600'
-date_gmt: '2005-07-19 02:54:40 -0600'
 categories:
 - newsgator
 tags: []

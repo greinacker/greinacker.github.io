@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator pre-release builds expire today
 date: '2003-02-28 10:22:07 -0700'
-date_gmt: '2003-02-28 17:22:07 -0700'
 categories:
 - newsgator
 tags: []

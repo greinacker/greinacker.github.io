@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Hello?!?  Fire?!?
 date: '2002-06-20 23:45:44 -0600'
-date_gmt: '2002-06-21 06:45:44 -0600'
 categories:
 - Uncategorized
 tags: []

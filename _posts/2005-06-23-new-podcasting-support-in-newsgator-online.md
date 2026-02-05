@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: New podcasting support in NewsGator Online!
 date: '2005-06-23 18:40:36 -0600'
-date_gmt: '2005-06-24 01:40:36 -0600'
 categories:
 - newsgator
 tags: []

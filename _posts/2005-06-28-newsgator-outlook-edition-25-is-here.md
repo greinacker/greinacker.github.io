@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Outlook edition 2.5 is here!
 date: '2005-06-28 23:20:57 -0600'
-date_gmt: '2005-06-29 06:20:57 -0600'
 categories:
 - newsgator
 tags: []

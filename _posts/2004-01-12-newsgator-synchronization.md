@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Synchronization
 date: '2004-01-12 12:59:18 -0700'
-date_gmt: '2004-01-12 19:59:18 -0700'
 categories:
 - newsgator
 tags: []

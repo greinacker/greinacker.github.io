@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Outlook 2.5 upgrade help
 date: '2005-06-29 12:09:04 -0600'
-date_gmt: '2005-06-29 19:09:04 -0600'
 categories:
 - newsgator
 tags: []

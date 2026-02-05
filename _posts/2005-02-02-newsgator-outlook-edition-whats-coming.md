@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator Outlook Edition - what's coming?
 date: '2005-02-02 13:37:33 -0700'
-date_gmt: '2005-02-02 20:37:33 -0700'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: PR on the Cheap
 date: '2003-12-16 16:30:55 -0700'
-date_gmt: '2003-12-16 23:30:55 -0700'
 categories:
 - Uncategorized
 tags: []

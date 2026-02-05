@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Travel by Messenger
 date: '2004-06-04 16:56:09 -0600'
-date_gmt: '2004-06-04 23:56:09 -0600'
 categories:
 - Uncategorized
 tags: []

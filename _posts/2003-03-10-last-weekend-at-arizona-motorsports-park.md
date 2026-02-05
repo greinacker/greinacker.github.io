@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Last weekend at Arizona Motorsports Park
 date: '2003-03-10 23:20:37 -0700'
-date_gmt: '2003-03-11 06:20:37 -0700'
 categories:
 - Uncategorized
 tags: []

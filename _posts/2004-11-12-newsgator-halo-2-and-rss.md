@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator, Halo 2, and RSS
 date: '2004-11-12 15:23:56 -0700'
-date_gmt: '2004-11-12 22:23:56 -0700'
 categories:
 - newsgator
 tags: []

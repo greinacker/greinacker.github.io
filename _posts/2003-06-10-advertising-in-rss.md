@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Advertising in RSS
 date: '2003-06-10 12:26:15 -0600'
-date_gmt: '2003-06-10 19:26:15 -0600'
 categories:
 - Uncategorized
 tags: []

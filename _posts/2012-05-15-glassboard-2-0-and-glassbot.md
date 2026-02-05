@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Glassboard 2.0 and Glassbot
 date: '2012-05-15 10:09:29 -0600'
-date_gmt: '2012-05-15 16:09:29 -0600'
 categories:
 - internet
 - development

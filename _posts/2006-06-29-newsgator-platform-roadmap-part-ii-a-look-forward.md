@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator platform roadmap - Part II (a look forward)
 date: '2006-06-29 14:10:34 -0600'
-date_gmt: '2006-06-29 21:10:34 -0600'
 categories:
 - newsgator
 tags: []

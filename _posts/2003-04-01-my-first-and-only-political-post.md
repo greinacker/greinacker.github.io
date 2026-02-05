@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: My first and only political post
 date: '2003-04-01 16:23:01 -0700'
-date_gmt: '2003-04-01 23:23:01 -0700'
 categories:
 - Uncategorized
 tags: []

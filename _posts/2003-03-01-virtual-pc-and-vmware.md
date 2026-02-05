@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Virtual PC and VMWare
 date: '2003-03-01 19:32:40 -0700'
-date_gmt: '2003-03-02 02:32:40 -0700'
 categories:
 - Uncategorized
 tags: []

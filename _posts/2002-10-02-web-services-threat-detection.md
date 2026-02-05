@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Threat Detection
 date: '2002-10-02 16:19:38 -0600'
-date_gmt: '2002-10-02 23:19:38 -0600'
 categories:
 - Uncategorized
 tags: []

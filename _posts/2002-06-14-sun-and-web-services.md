@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sun and Web Services
 date: '2002-06-14 15:24:20 -0600'
-date_gmt: '2002-06-14 22:24:20 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Lightroom and Mac Pro performance - part 2
 date: '2008-10-30 18:22:22 -0600'
-date_gmt: '2008-10-31 01:22:22 -0600'
 categories:
 - apple
 - photography

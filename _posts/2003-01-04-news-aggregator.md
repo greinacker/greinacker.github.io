@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: News Aggregator
 date: '2003-01-04 14:47:46 -0700'
-date_gmt: '2003-01-04 21:47:46 -0700'
 categories:
 - newsgator
 tags: []

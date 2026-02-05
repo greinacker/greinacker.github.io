@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Congratulations Gordon!
 date: '2002-06-17 08:44:02 -0600'
-date_gmt: '2002-06-17 15:44:02 -0600'
 categories:
 - Uncategorized
 tags: []

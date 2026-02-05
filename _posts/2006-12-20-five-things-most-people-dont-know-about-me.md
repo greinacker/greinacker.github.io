@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Five things most people don't know about me
 date: '2006-12-20 15:13:54 -0700'
-date_gmt: '2006-12-20 22:13:54 -0700'
 categories:
 - Uncategorized
 tags: []

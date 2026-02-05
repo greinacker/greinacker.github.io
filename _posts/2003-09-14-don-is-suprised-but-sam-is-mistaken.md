@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Don is suprised, but Sam is mistaken
 date: '2003-09-14 09:34:17 -0600'
-date_gmt: '2003-09-14 16:34:17 -0600'
 categories:
 - Uncategorized
 tags: []

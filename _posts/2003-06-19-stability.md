@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Stability
 date: '2003-06-19 08:43:14 -0600'
-date_gmt: '2003-06-19 15:43:14 -0600'
 categories:
 - Uncategorized
 tags: []

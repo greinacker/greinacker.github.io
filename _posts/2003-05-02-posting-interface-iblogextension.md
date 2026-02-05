@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Posting interface (IBlogExtension?)
 date: '2003-05-02 10:05:06 -0600'
-date_gmt: '2003-05-02 17:05:06 -0600'
 categories:
 - Uncategorized
 tags: []

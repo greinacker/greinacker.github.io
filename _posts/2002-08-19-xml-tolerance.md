@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: XML Tolerance
 date: '2002-08-19 17:02:07 -0600'
-date_gmt: '2002-08-20 00:02:07 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator's sync platform details
 date: '2008-09-11 12:57:17 -0600'
-date_gmt: '2008-09-11 18:57:17 -0600'
 categories:
 - newsgator
 tags: []

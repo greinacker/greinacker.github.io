@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Someone likes spam?
 date: '2002-06-05 17:49:26 -0600'
-date_gmt: '2002-06-06 00:49:26 -0600'
 categories:
 - Uncategorized
 tags: []

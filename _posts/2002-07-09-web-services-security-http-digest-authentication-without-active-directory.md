@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Services Security - HTTP Digest Authentication without Active Directory
 date: '2002-07-09 08:00:12 -0600'
-date_gmt: '2002-07-09 15:00:12 -0600'
 categories:
 - Uncategorized
 tags: []

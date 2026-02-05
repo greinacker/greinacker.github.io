@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: PC Magazine reviews NewsGator
 date: '2003-09-09 06:40:44 -0600'
-date_gmt: '2003-09-09 13:40:44 -0600'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Choosing a colocation vendor - overview (part 1)
 date: '2011-04-11 16:31:58 -0600'
-date_gmt: '2011-04-11 22:31:58 -0600'
 categories:
 - internet
 - startups

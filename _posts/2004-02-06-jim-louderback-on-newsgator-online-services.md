@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Jim Louderback on NewsGator Online Services
 date: '2004-02-06 09:48:47 -0700'
-date_gmt: '2004-02-06 16:48:47 -0700'
 categories:
 - newsgator
 tags: []

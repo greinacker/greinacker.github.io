@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Google and Greg
 date: '2002-12-20 21:41:42 -0700'
-date_gmt: '2002-12-21 04:41:42 -0700'
 categories:
 - Uncategorized
 tags: []

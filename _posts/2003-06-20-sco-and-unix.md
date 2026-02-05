@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: SCO and Unix
 date: '2003-06-20 08:36:09 -0600'
-date_gmt: '2003-06-20 15:36:09 -0600'
 categories:
 - Uncategorized
 tags: []

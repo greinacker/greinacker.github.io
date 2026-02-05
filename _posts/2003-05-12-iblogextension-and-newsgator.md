@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: IBlogExtension and NewsGator
 date: '2003-05-12 19:55:24 -0600'
-date_gmt: '2003-05-13 02:55:24 -0600'
 categories:
 - newsgator
 tags: []

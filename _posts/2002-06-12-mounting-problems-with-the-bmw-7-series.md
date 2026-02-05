@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Mounting problems with the BMW 7 Series
 date: '2002-06-12 08:35:54 -0600'
-date_gmt: '2002-06-12 15:35:54 -0600'
 categories:
 - Uncategorized
 tags: []

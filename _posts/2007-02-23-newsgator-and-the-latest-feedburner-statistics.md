@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and the latest Feedburner Statistics
 date: '2007-02-23 10:20:38 -0700'
-date_gmt: '2007-02-23 17:20:38 -0700'
 categories:
 - newsgator
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and FeedDemon, friendly as ever...
 date: '2004-09-29 18:36:06 -0600'
-date_gmt: '2004-09-30 01:36:06 -0600'
 categories:
 - newsgator
 tags: []

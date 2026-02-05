@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Friday Five
 date: '2002-08-09 15:37:21 -0600'
-date_gmt: '2002-08-09 22:37:21 -0600'
 categories:
 - Uncategorized
 tags: []

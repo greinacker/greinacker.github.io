@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Great Developers
 date: '2002-08-26 09:07:58 -0600'
-date_gmt: '2002-08-26 16:07:58 -0600'
 categories:
 - Uncategorized
 tags: []

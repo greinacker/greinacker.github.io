@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Name that Company
 date: '2004-09-17 18:30:29 -0600'
-date_gmt: '2004-09-18 01:30:29 -0600'
 categories:
 - newsgator
 tags: []

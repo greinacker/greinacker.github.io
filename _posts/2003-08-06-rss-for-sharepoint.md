@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: RSS for Sharepoint
 date: '2003-08-06 17:21:51 -0600'
-date_gmt: '2003-08-07 00:21:51 -0600'
 categories:
 - Uncategorized
 tags: []

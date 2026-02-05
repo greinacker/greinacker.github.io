@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator and .NET installation
 date: '2003-01-29 10:38:37 -0700'
-date_gmt: '2003-01-29 17:38:37 -0700'
 categories:
 - newsgator
 tags: []

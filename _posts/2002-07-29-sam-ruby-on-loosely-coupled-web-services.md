@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sam Ruby on Loosely Coupled Web Services
 date: '2002-07-29 12:15:05 -0600'
-date_gmt: '2002-07-29 19:15:05 -0600'
 categories:
 - Uncategorized
 tags: []

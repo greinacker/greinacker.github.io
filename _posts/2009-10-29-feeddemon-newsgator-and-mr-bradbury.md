@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: FeedDemon, NewsGator, and Mr. Bradbury
 date: '2009-10-29 08:00:31 -0600'
-date_gmt: '2009-10-29 15:00:31 -0600'
 categories:
 - newsgator
 tags:

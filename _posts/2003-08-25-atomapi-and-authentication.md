@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: AtomAPI and Authentication
 date: '2003-08-25 08:04:25 -0600'
-date_gmt: '2003-08-25 15:04:25 -0600'
 categories:
 - Uncategorized
 tags: []

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Mac Pro performance
 date: '2008-02-24 17:02:15 -0700'
-date_gmt: '2008-02-25 00:02:15 -0700'
 categories:
 - apple
 tags:

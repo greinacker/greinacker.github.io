@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Post ratings on your site
 date: '2004-10-24 18:18:26 -0600'
-date_gmt: '2004-10-25 01:18:26 -0600'
 categories:
 - newsgator
 tags: []

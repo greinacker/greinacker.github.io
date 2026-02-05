@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Slashdot and getting there from here
 date: '2003-05-17 10:31:15 -0600'
-date_gmt: '2003-05-17 17:31:15 -0600'
 categories:
 - Uncategorized
 tags: []

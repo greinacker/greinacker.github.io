@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Drag and drop feeds!
 date: '2006-01-19 14:03:44 -0700'
-date_gmt: '2006-01-19 21:03:44 -0700'
 categories:
 - newsgator
 tags: []

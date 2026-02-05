@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: NewsGator is hiring!
 date: '2006-08-03 16:19:17 -0600'
-date_gmt: '2006-08-03 23:19:17 -0600'
 categories:
 - newsgator
 tags: []

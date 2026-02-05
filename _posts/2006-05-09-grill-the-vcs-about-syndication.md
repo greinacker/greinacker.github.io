@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Grill the VC's about syndication!
 date: '2006-05-09 10:58:08 -0600'
-date_gmt: '2006-05-09 17:58:08 -0600'
 categories:
 - Uncategorized
 tags: []

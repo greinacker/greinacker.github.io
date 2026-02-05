@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Retrieving news
 date: '2003-01-30 14:30:02 -0700'
-date_gmt: '2003-01-30 21:30:02 -0700'
 categories:
 - Uncategorized
 tags: []

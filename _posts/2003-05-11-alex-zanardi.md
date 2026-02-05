@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Alex Zanardi
 date: '2003-05-11 12:11:50 -0600'
-date_gmt: '2003-05-11 19:11:50 -0600'
 categories:
 - Uncategorized
 tags: []

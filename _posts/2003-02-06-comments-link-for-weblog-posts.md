@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Comments link for weblog posts
 date: '2003-02-06 16:26:53 -0700'
-date_gmt: '2003-02-06 23:26:53 -0700'
 categories:
 - Uncategorized
 tags: []

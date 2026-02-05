@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Pueblo National
 date: '2003-07-21 07:23:38 -0600'
-date_gmt: '2003-07-21 14:23:38 -0600'
 categories:
 - Uncategorized
 tags: []

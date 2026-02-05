@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Independent developer life
 date: '2008-03-03 10:55:10 -0700'
-date_gmt: '2008-03-03 17:55:10 -0700'
 categories:
 - newsgator
 tags: []

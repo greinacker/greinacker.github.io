@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Customized Capistrano tasks per-host
 date: '2011-06-27 11:45:39 -0600'
-date_gmt: '2011-06-27 17:45:39 -0600'
 categories:
 - development
 tags:

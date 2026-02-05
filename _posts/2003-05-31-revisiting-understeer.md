@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Revisiting understeer
 date: '2003-05-31 21:35:28 -0600'
-date_gmt: '2003-06-01 04:35:28 -0600'
 categories:
 - Uncategorized
 tags: []

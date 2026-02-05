@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: Desktop RSS Readers are actually alive and thriving
 date: '2007-07-26 10:34:53 -0600'
-date_gmt: '2007-07-26 17:34:53 -0600'
 categories:
 - newsgator
 tags: []

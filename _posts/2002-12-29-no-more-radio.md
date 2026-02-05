@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: No More Radio
 date: '2002-12-29 02:12:15 -0700'
-date_gmt: '2002-12-29 09:12:15 -0700'
 categories:
 - Uncategorized
 tags: []
